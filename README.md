@@ -1,169 +1,141 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Futuristic Dashboard | V-Core Analytics</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="glow-bg"></div>
+<!--
+  GitHub Profile README for github.com/StayJagrat
+  Keep this page focused: strongest work, strongest skills, and clear contact paths.
+-->
 
-    <div class="dashboard-layout">
-        <!-- Sidebar -->
-        <aside class="sidebar">
-            <div class="brand">
-                <div class="brand-icon"></div>
-                <h2>V-Core</h2>
-            </div>
-            <nav class="side-nav">
-                <a href="#" class="nav-item active">
-                    <span class="icon">📊</span> Overview
-                </a>
-                <a href="#" class="nav-item">
-                    <span class="icon">⚡</span> Performance
-                </a>
-                <a href="#" class="nav-item">
-                    <span class="icon">🌌</span> Network Map
-                </a>
-                <a href="#" class="nav-item">
-                    <span class="icon">🛡️</span> Security
-                </a>
-                <a href="#" class="nav-item">
-                    <span class="icon">⚙️</span> Settings
-                </a>
-            </nav>
-            <div class="sidebar-footer">
-                <div class="user-profile">
-                    <div class="avatar"></div>
-                    <div class="user-info">
-                        <h4>Admin 01</h4>
-                        <p>System Online</p>
-                    </div>
-                </div>
-            </div>
-        </aside>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:7C3AED,100:06B6D4&text=Jagrat%20Patel&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Information%20Systems%20%40%20UMBC%20%7C%20Full-Stack%20%7C%20IT%20%26%20Security&descSize=18&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Jagrat Patel"
+  />
+</p>
 
-        <!-- Main Content -->
-        <main class="main-content">
-            <header class="top-header">
-                <div class="search-bar">
-                    <span class="search-icon">🔍</span>
-                    <input type="text" placeholder="Query system data...">
-                </div>
-                <div class="header-actions">
-                    <button class="icon-btn" data-tooltip="Notifications">🔔<span class="badge"></span></button>
-                    <button class="btn-glow">Run Diagnostics</button>
-                </div>
-            </header>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+secure%2C+user-focused+digital+products;Turning+AI+ideas+into+full-stack+experiences;Hackathon+winner+%7C+Designer+%7C+Developer"
+    alt="Animated introduction"
+  />
+</p>
 
-            <div class="dashboard-grid">
-                <!-- Status Card 1 -->
-                <div class="card stat-card pulse-hover">
-                    <div class="card-header">
-                        <h3>Compute Power</h3>
-                        <span class="trend up">+14%</span>
-                    </div>
-                    <div class="stat-value">94.2 <span class="unit">TFLOPS</span></div>
-                    <div class="progress-container">
-                        <div class="progress-bar cyan-glow" style="width: 85%"></div>
-                    </div>
-                </div>
+<p align="center">
+  <a href="https://stayjagrat.com">
+    <img src="https://img.shields.io/badge/Portfolio-stayjagrat.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/stayjagrat">
+    <img src="https://img.shields.io/badge/LinkedIn-Jagrat%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jagratpatel20062j@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-                <!-- Status Card 2 -->
-                <div class="card stat-card pulse-hover">
-                    <div class="card-header">
-                        <h3>Network Latency</h3>
-                        <span class="trend down">-5ms</span>
-                    </div>
-                    <div class="stat-value">12.4 <span class="unit">ms</span></div>
-                    <div class="progress-container">
-                        <div class="progress-bar pink-glow" style="width: 15%"></div>
-                    </div>
-                </div>
+---
 
-                <!-- Status Card 3 -->
-                <div class="card stat-card pulse-hover">
-                    <div class="card-header">
-                        <h3>Active Nodes</h3>
-                        <span class="trend up">+8</span>
-                    </div>
-                    <div class="stat-value">1,024 <span class="unit">nodes</span></div>
-                    <div class="progress-container">
-                        <div class="progress-bar purple-glow" style="width: 100%"></div>
-                    </div>
-                </div>
+## About Me
 
-                <!-- Large Chart Area -->
-                <div class="card large-card span-2">
-                    <div class="card-header">
-                        <h3>Neural Throughput Overview</h3>
-                        <div class="controls">
-                            <button class="active">1H</button>
-                            <button>24H</button>
-                            <button>7D</button>
-                        </div>
-                    </div>
-                    <div class="chart-container">
-                        <!-- CSS-only animated chart mock -->
-                        <div class="line-chart">
-                            <svg viewBox="0 0 500 150" preserveAspectRatio="none">
-                                <defs>
-                                    <linearGradient id="cyanGrad" x1="0" y1="0" x2="0" y2="1">
-                                        <stop offset="0%" stop-color="rgba(6, 182, 212, 0.5)" />
-                                        <stop offset="100%" stop-color="rgba(6, 182, 212, 0)" />
-                                    </linearGradient>
-                                </defs>
-                                <path class="chart-area" d="M0,150 L0,80 Q25,120 50,60 T100,70 T150,30 T200,90 T250,50 T300,100 T350,20 T400,60 T450,10 L500,40 L500,150 Z" fill="url(#cyanGrad)"></path>
-                                <path class="chart-line" d="M0,80 Q25,120 50,60 T100,70 T150,30 T200,90 T250,50 T300,100 T350,20 T400,60 T450,10 L500,40" fill="none" stroke="#06B6D4" stroke-width="3"></path>
-                            </svg>
-                        </div>
-                    </div>
-                </div>
+I am an **Information Systems student at UMBC** building secure, useful products at the intersection of **full-stack development, AI, and IT operations**.
 
-                <!-- Activity Feed -->
-                <div class="card feed-card">
-                    <div class="card-header">
-                        <h3>System Logs</h3>
-                    </div>
-                    <div class="log-list">
-                        <div class="log-item">
-                            <div class="log-dot cyan"></div>
-                            <div class="log-content">
-                                <p>Cluster alpha scaled up</p>
-                                <span>2 mins ago</span>
-                            </div>
-                        </div>
-                        <div class="log-item">
-                            <div class="log-dot pink"></div>
-                            <div class="log-content">
-                                <p>Firewall protocol updated</p>
-                                <span>15 mins ago</span>
-                            </div>
-                        </div>
-                        <div class="log-item">
-                            <div class="log-dot purple"></div>
-                            <div class="log-content">
-                                <p>Anomaly detected in sector 4</p>
-                                <span>1 hour ago</span>
-                            </div>
-                        </div>
-                        <div class="log-item">
-                            <div class="log-dot cyan"></div>
-                            <div class="log-content">
-                                <p>Backup completed successfully</p>
-                                <span>2 hours ago</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </main>
-    </div>
+- **IT & Security Intern at Youphoria** — implementing MFA, conditional-access policies, anti-phishing protections, and security-policy improvements.
+- **Two-time HackUMBC 2025 award winner** — Best Health/Environmental Hack and MLH Best `.Tech` Domain for **GreenCrew**.
+- **HackUMBC Sponsorship Team member** — connecting companies, recruiters, and technical communities with the event.
+- I care about products that are **functional, secure, responsive, and easy to use**.
 
-    <script src="script.js"></script>
-</body>
-</html>
+## Technology
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,nextjs,tailwind,tensorflow,nodejs,express,mongodb,firebase,git,github,figma,linux,vercel&perline=9"
+    alt="Technology stack"
+  />
+</p>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">GreenCrew</h3>
+      <p>
+        Award-winning sustainability PWA that uses in-browser machine learning
+        to identify recyclable items and track XP and CO₂ impact.
+      </p>
+      <p><strong>Highlights:</strong> Built in 24 hours, 85%+ detection accuracy, two HackUMBC awards.</p>
+      <p><strong>Stack:</strong> React, TensorFlow.js, Firebase, GSAP, Framer Motion</p>
+      <p align="center">
+        <a href="https://greencrew.tech"><strong>Live Project ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Evidex</h3>
+      <p>
+        AI-assisted digital-forensics platform for evidence ingestion,
+        investigator workflows, and blockchain-verified chain of custody.
+      </p>
+      <p><strong>Role:</strong> Frontend Developer & UI/UX Designer</p>
+      <p><strong>Stack:</strong> Next.js, Tailwind CSS, Node.js, MongoDB, Gemini AI, Solana</p>
+      <p align="center">
+        <a href="https://www.evidex.tech"><strong>Live Project ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">VoyageAI</h3>
+      <p>
+        ML-first travel-planning interface that turns a 12-stage RAG pipeline
+        and reranked recommendations into a clear multi-step user experience.
+      </p>
+      <p><strong>Role:</strong> Frontend Developer & UI/UX Designer</p>
+      <p><strong>Stack:</strong> React, Tailwind CSS, Gemini API, ChromaDB</p>
+      <p align="center">
+        <a href="https://github.com/StayJagrat/Voyage"><strong>View Repository ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">CliniScribe</h3>
+      <p>
+        Multilingual AI health-guidance interface featuring animated symptom
+        flows, severity visualizations, and nearby-care discovery.
+      </p>
+      <p><strong>Role:</strong> UI/UX Designer</p>
+      <p><strong>Stack:</strong> React, Tailwind CSS, Framer Motion, Gemini API, Google Places API</p>
+      <p align="center">
+        <a href="https://cliniscribe.vercel.app"><strong>Live Project ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>Current Focus</strong></summary>
+  <br/>
+  <ul>
+    <li>Building polished React and Next.js product experiences</li>
+    <li>Applying AI to useful, explainable workflows</li>
+    <li>Improving identity, access, phishing, and account-security controls</li>
+    <li>Connecting technical execution with business and user needs</li>
+  </ul>
+</details>
+
+## Connect
+
+I am interested in **Information Systems, IT/security, frontend, and AI-product opportunities**.
+
+<p align="center">
+  <a href="https://stayjagrat.com">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/stayjagrat">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:jagratpatel20062j@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <em>Secure by design. Useful by default.</em>
+</p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,50:7C3AED,100:06B6D4&section=footer"
+  width="100%"
+  alt=""
+/>
