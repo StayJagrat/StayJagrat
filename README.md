@@ -1,330 +1,369 @@
-<!-- ===================== HEADER ===================== -->
+<!--
+  GitHub Profile README — Jagrat Patel
+  Focus: product-minded frontend engineering, UI/UX, security, and measurable outcomes.
+-->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,45:6D28D9,100:06B6D4&text=Jagrat%20Patel&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Information%20Systems%20%7C%20Full-Stack%20%7C%20IT%20%26%20Security&descSize=18&descAlignY=60&animation=fadeIn"
-    width="100%"
-    alt="Jagrat Patel"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+secure%2C+user-focused+digital+products;Turning+AI+ideas+into+full-stack+experiences;Hackathon+Winner+%7C+Developer+%7C+UI%2FUX+Designer;Always+learning.+Always+building."
-    alt="Animated typing introduction"
-  />
-</p>
-
-<p align="center">
-  <a href="https://stayjagrat.com">
-    <img
-      src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/stayjagrat">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:jagratpatel20062j@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=StayJagrat&label=PROFILE+VIEWS&color=7c3aed&style=flat-square"
-    alt="Profile views"
-  />
+<a id="top"></a>
 
 <img
- src="https://img.shields.io/github/followers/StayJagrat?label=FOLLOWERS&style=flat-square&color=0891b2"
- alt="GitHub followers"
+align="right"
+width="168"
+src="https://avatars.githubusercontent.com/u/207100980?v=4"
+alt="Jagrat Patel"
 />
 
-</p>
+# Jagrat Patel
+
+### Frontend Developer · UI/UX Designer · Information Systems
+
+I design and build **clear, responsive, and secure digital products**—from early product thinking and interaction design to production-ready frontend experiences.
+
+**Information Systems @ UMBC** · **IT & Security Intern** · **Two-time HackUMBC winner**
+
+[Portfolio](https://stayjagrat.com) ·
+[LinkedIn](https://www.linkedin.com/in/stayjagrat) ·
+[Email](mailto:jagratpatel20062j@gmail.com) ·
+[Projects](#selected-work)
+
+<br clear="right"/>
+
+> **Building What Others Imagine**
+> Translating complex systems, AI workflows, and real user needs into interfaces that feel simple.
+
+---
 
 <p align="center">
-  <a href="#about-me">About</a>
-  •
-  <a href="#technology">Technology</a>
-  •
-  <a href="#featured-projects">Projects</a>
-  •
-  <a href="#achievements">Achievements</a>
-  •
-  <a href="#github-activity">Activity</a>
-  •
-  <a href="#connect">Connect</a>
+  <a href="#selected-work"><strong>Selected Work</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#capabilities"><strong>Capabilities</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#process"><strong>Process</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#experience"><strong>Experience</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#contact"><strong>Contact</strong></a>
 </p>
 
 ---
 
-## About Me
+## Impact at a Glance
 
-```javascript
-const jagrat = {
-  education: "B.S. Information Systems @ UMBC",
-  experience: "IT & Security Intern @ Youphoria",
-  interests: [
-    "Full-Stack Development",
-    "AI Products",
-    "Cybersecurity",
-    "UI/UX"
-  ],
-  achievement: "Two-time HackUMBC 2025 award winner",
-  philosophy: "Secure by design. Useful by default."
-};
-```
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>2×</strong><br/>
+      Hackathon Awards
+    </td>
+    <td align="center" width="25%">
+      <strong>85%+</strong><br/>
+      Detection Accuracy
+    </td>
+    <td align="center" width="25%">
+      <strong>20%</strong><br/>
+      Risk Reduction
+    </td>
+    <td align="center" width="25%">
+      <strong>24 hrs</strong><br/>
+      Idea to Deployment
+    </td>
+  </tr>
+</table>
 
-* Building products at the intersection of **technology, security, and user experience**
-* Implementing **MFA, conditional access, anti-phishing protections, and security policies**
-* Designing responsive interfaces for **AI-powered and data-driven platforms**
-* Open to opportunities in **Information Systems, IT, security, frontend, and AI products**
+---
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>GreenCrew</h3>
+      <p><strong>Award-winning sustainability product</strong></p>
+      <p>
+        A gamified PWA that uses in-browser machine learning to identify
+        recyclable items and translate sustainable actions into measurable
+        XP and CO₂ impact.
+      </p>
+      <p>
+        <strong>Contribution</strong><br/>
+        Product direction · UI/UX · Frontend · ML integration
+      </p>
+      <p>
+        <strong>Outcome</strong><br/>
+        85%+ detection accuracy · Built in 24 hours · Two HackUMBC awards
+      </p>
+      <p>
+        <code>React</code>
+        <code>TensorFlow.js</code>
+        <code>Firebase</code>
+        <code>GSAP</code>
+      </p>
+      <p>
+        <a href="https://greencrew.tech"><strong>View live product ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Evidex</h3>
+      <p><strong>Digital forensics and incident response</strong></p>
+      <p>
+        A case-management experience designed to make complex evidence
+        workflows, investigator collaboration, and chain-of-custody tracking
+        easier to understand and operate.
+      </p>
+      <p>
+        <strong>Contribution</strong><br/>
+        Frontend engineering · UX architecture · Interface design
+      </p>
+      <p>
+        <strong>Outcome</strong><br/>
+        Unified evidence ingestion, AI-assisted analysis, and tamper-resistant verification
+      </p>
+      <p>
+        <code>Next.js</code>
+        <code>Tailwind</code>
+        <code>MongoDB</code>
+        <code>Gemini AI</code>
+      </p>
+      <p>
+        <a href="https://www.evidex.tech"><strong>View live product ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>VoyageAI</h3>
+      <p><strong>ML-first RAG travel planning</strong></p>
+      <p>
+        A responsive planning interface that turns a complex 12-stage
+        retrieval pipeline into a guided, understandable user journey.
+      </p>
+      <p>
+        <strong>Contribution</strong><br/>
+        Frontend engineering · UI system · ML-output visualization
+      </p>
+      <p>
+        <strong>Outcome</strong><br/>
+        Simplified reranked recommendations and multi-stage AI results for end users
+      </p>
+      <p>
+        <code>React</code>
+        <code>Tailwind</code>
+        <code>Gemini API</code>
+        <code>ChromaDB</code>
+      </p>
+      <p>
+        <a href="https://github.com/StayJagrat/Voyage"><strong>View repository ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CliniScribe</h3>
+      <p><strong>Multilingual AI health guidance</strong></p>
+      <p>
+        A human-centered interface for symptom input, severity communication,
+        AI-generated guidance, and nearby-care discovery.
+      </p>
+      <p>
+        <strong>Contribution</strong><br/>
+        UI/UX design · Interaction design · Frontend integration
+      </p>
+      <p>
+        <strong>Outcome</strong><br/>
+        Clearer symptom flows, accessible severity states, and actionable care navigation
+      </p>
+      <p>
+        <code>React</code>
+        <code>Framer Motion</code>
+        <code>Gemini API</code>
+        <code>Places API</code>
+      </p>
+      <p>
+        <a href="https://cliniscribe.vercel.app"><strong>View live product ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <details>
-  <summary><strong>Click to see what I am currently focused on</strong></summary>
+  <summary><strong>Open project decision notes</strong></summary>
 
-  <br />
+  <br/>
 
-* Building polished applications with **React and Next.js**
-* Applying AI to useful and explainable workflows
-* Improving identity, access, and account-security controls
-* Connecting technical execution with business and user needs
+**GreenCrew**
+Designed the experience around a single fast action—scan an item—then progressively revealed value, recyclability, CO₂ savings, and next steps without overwhelming the user.
+
+**Evidex**
+Structured the interface around investigator workflows rather than raw technical features, keeping evidence status, custody, and collaboration visible at the case level.
+
+**VoyageAI**
+Converted a multi-stage retrieval system into a guided planning flow so users interact with useful recommendations instead of backend complexity.
+
+**CliniScribe**
+Prioritized clarity, multilingual usability, and visible severity states for a sensitive health-related experience.
+
+</details>
+
+<p align="right"><a href="#top">Back to top ↑</a></p>
+
+---
+
+## Capabilities
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Product & UI/UX</h3>
+      <p>
+        User flows<br/>
+        Information architecture<br/>
+        Responsive interface design<br/>
+        Prototyping and interaction design<br/>
+        Design systems and consistency<br/>
+        Accessibility-minded decisions
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Frontend Engineering</h3>
+      <p>
+        React and Next.js<br/>
+        JavaScript and component architecture<br/>
+        Tailwind CSS<br/>
+        Framer Motion and GSAP<br/>
+        API integration<br/>
+        Responsive implementation
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Systems & Security</h3>
+      <p>
+        Node.js and Express<br/>
+        MongoDB and Firebase<br/>
+        REST APIs<br/>
+        Identity and access controls<br/>
+        MFA and anti-phishing protection<br/>
+        Google Admin Console
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>View complete technology stack</strong></summary>
+
+  <br/>
+
+**Languages**
+Python · JavaScript · C++ · HTML · CSS
+
+**Frontend**
+React.js · Next.js · Tailwind CSS · Framer Motion · GSAP · TensorFlow.js
+
+**Backend & Data**
+Node.js · Express.js · REST APIs · MongoDB · Firebase
+
+**Design & Development Tools**
+Figma · Git · GitHub · VS Code · Linux · Vercel
+
+**IT & Administration**
+Google Admin Console · Google Workspace · MFA · Conditional Access · Anti-Phishing Controls
+
+</details>
+
+<p align="right"><a href="#top">Back to top ↑</a></p>
+
+---
+
+## Process
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <strong>01</strong><br/>
+      Discover
+    </td>
+    <td align="center" width="20%">
+      <strong>02</strong><br/>
+      Define
+    </td>
+    <td align="center" width="20%">
+      <strong>03</strong><br/>
+      Design
+    </td>
+    <td align="center" width="20%">
+      <strong>04</strong><br/>
+      Build
+    </td>
+    <td align="center" width="20%">
+      <strong>05</strong><br/>
+      Validate
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>How I approach a product problem</strong></summary>
+
+  <br/>
+
+**Discover** — Understand the user, context, constraints, and actual problem.
+**Define** — Reduce ambiguity into clear flows, priorities, and success criteria.
+**Design** — Establish hierarchy, interaction patterns, states, and responsive behavior.
+**Build** — Translate the system into reusable, maintainable frontend components.
+**Validate** — Test the experience, remove friction, and refine based on real behavior.
 
 </details>
 
 ---
 
-## Technology
+## Experience
 
-### Languages
+### IT & Security Intern · Youphoria
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=python,js,cpp,html,css"
-    alt="Programming languages"
-  />
-</p>
+Improving account and workspace security through **MFA, conditional access, anti-phishing controls, and policy updates**, contributing to a reported **20% reduction in account-compromise risk**.
 
-### Frontend
+### HackUMBC Organizing Committee · Sponsorship Team
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma"
-    alt="Frontend tools"
-  />
-</p>
+Supporting company outreach and partnership development by connecting event value, technical talent, and recruiter goals.
 
-### Backend, Data and Cloud
+### HackUMBC 2025 · Two-Time Award Winner
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,vercel"
-    alt="Backend and cloud tools"
-  />
-</p>
+* Best Health/Environmental Hack
+* MLH Best `.Tech` Domain
 
-### Developer Tools
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,linux"
-    alt="Developer tools"
-  />
-</p>
-
-<details>
-  <summary><strong>Click to view my complete technical stack</strong></summary>
-
-  <br />
-
-**Languages:** Python, JavaScript, C++, HTML, CSS
-
-**Frontend:** React.js, Next.js, Tailwind CSS, Framer Motion, GSAP, TensorFlow.js
-
-**Backend:** Node.js, Express.js, REST APIs, MongoDB, Firebase
-
-**Tools:** Git, GitHub, VS Code, Figma, Linux, Google Admin Console, Google Workspace, Vercel
-
-</details>
+<p align="right"><a href="#top">Back to top ↑</a></p>
 
 ---
 
-## Featured Projects
+## Currently
 
 <details open>
-  <summary><strong>GreenCrew — Award-Winning Sustainability Platform</strong></summary>
+  <summary><strong>What I am focused on now</strong></summary>
 
-  <br />
+  <br/>
 
-A gamified sustainability PWA that uses in-browser machine learning to identify recyclable items and track XP and CO₂ impact.
-
-**Highlights**
-
-* Winner of **Best Health/Environmental Hack**
-* Winner of **MLH Best `.Tech` Domain**
-* Achieved **85%+ recyclable-item detection accuracy**
-* Built and deployed during a **24-hour hackathon sprint**
-
-**Technology:** React, TensorFlow.js, Firebase, GSAP, Framer Motion
-
-[![Live Project](https://img.shields.io/badge/OPEN_LIVE_PROJECT-16A34A?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://greencrew.tech)
-
-</details>
-
-<details>
-  <summary><strong>Evidex — Digital Forensics and Incident Response Platform</strong></summary>
-
-  <br />
-
-An AI-assisted digital-forensics platform for evidence ingestion, investigator collaboration, and tamper-resistant chain-of-custody workflows.
-
-**Highlights**
-
-* Designed forensic case-management interfaces
-* Supported multi-format evidence ingestion
-* Integrated AI-assisted pattern detection
-* Used blockchain verification for evidence integrity
-
-**Technology:** Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Gemini AI, Solana
-
-[![Live Project](https://img.shields.io/badge/OPEN_LIVE_PROJECT-7C3AED?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.evidex.tech)
-
-</details>
-
-<details>
-  <summary><strong>VoyageAI — ML-First RAG Travel Planning Platform</strong></summary>
-
-  <br />
-
-A travel-planning experience that transforms a complex 12-stage RAG pipeline into a clear, responsive, multi-step user interface.
-
-**Highlights**
-
-* Designed the full frontend experience
-* Presented reranked AI recommendations clearly
-* Built reusable React components for ML-generated outputs
-* Connected complex retrieval workflows to a simple user experience
-
-**Technology:** React, Tailwind CSS, Gemini API, Sentence Transformers, ChromaDB
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/StayJagrat/Voyage)
-
-</details>
-
-<details>
-  <summary><strong>CliniScribe — Multilingual AI Health Guidance Platform</strong></summary>
-
-  <br />
-
-An AI-powered health-guidance interface featuring animated symptom flows, severity visualizations, and nearby-care discovery.
-
-**Highlights**
-
-* Designed multilingual symptom-input experiences
-* Built dynamic severity-scoring visualizations
-* Integrated AI-generated health assessments
-* Connected users with nearby healthcare facilities
-
-**Technology:** React, Tailwind CSS, Framer Motion, Gemini API, Google Places API
-
-[![Live Project](https://img.shields.io/badge/OPEN_LIVE_PROJECT-0891B2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://cliniscribe.vercel.app)
+* Building refined React and Next.js product experiences
+* Designing interfaces for AI-assisted workflows
+* Strengthening frontend architecture and interaction quality
+* Connecting technical systems with clear business and user value
 
 </details>
 
 ---
 
-## Achievements
+## Contact
 
-<details>
-  <summary><strong>Click to view awards and leadership</strong></summary>
+I am interested in opportunities across **frontend development, UI/UX, Information Systems, IT/security, and AI-powered products**.
 
-  <br />
-
-* **HackUMBC 2025 — Best Health/Environmental Hack**
-* **HackUMBC 2025 — MLH Best `.Tech` Domain**
-* **HackUMBC Organizing Committee — Sponsorship Team**
-* Conducted outreach to companies and recruiters for event partnerships
-
-</details>
+**[Explore my portfolio](https://stayjagrat.com)**
+**[Connect on LinkedIn](https://www.linkedin.com/in/stayjagrat)**
+**[Send me an email](mailto:jagratpatel20062j@gmail.com)**
+**[Browse my repositories](https://github.com/StayJagrat?tab=repositories)**
 
 ---
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=StayJagrat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
-    alt="Jagrat Patel GitHub statistics"
-  />
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=StayJagrat&layout=compact&theme=tokyonight&hide_border=true"
- alt="Jagrat Patel most used languages"
-/>
-
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=StayJagrat&theme=tokyonight&hide_border=true"
-    alt="Jagrat Patel GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=StayJagrat&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="Jagrat Patel contribution activity graph"
-  />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://stayjagrat.com">
-    <img
-      src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/stayjagrat">
-    <img
-      src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:jagratpatel20062j@gmail.com">
-    <img
-      src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
 
 <p align="center">
   <strong>Secure by design. Useful by default.</strong>
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,45:6D28D9,100:06B6D4&section=footer"
-    width="100%"
-    alt=""
-  />
+  <sub>Designed and built by Jagrat Patel</sub>
 </p>
