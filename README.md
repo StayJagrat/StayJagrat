@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer & IT Security Intern from the United States</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StayJagrat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=StayJagrat&label=Profile%20Views&color=ffd43b&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/stayjagrat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stayjagrat.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/StayJagrat" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/stayjagrat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ffd43b?style=for-the-badge&logo=linkedin&logoColor=ffd43b&labelColor=0b0b0b" alt="LinkedIn" /></a>
+  <a href="https://stayjagrat.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ffd43b?style=for-the-badge&logo=google-chrome&logoColor=ffd43b&labelColor=0b0b0b" alt="Portfolio" /></a>
+  <a href="https://github.com/StayJagrat" target="_blank"><img src="https://img.shields.io/badge/GitHub-ffd43b?style=for-the-badge&logo=github&logoColor=ffd43b&labelColor=0b0b0b" alt="GitHub" /></a>
 </p>
 
 ### Languages and Tools:
@@ -24,9 +24,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StayJagrat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=StayJagrat&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StayJagrat&show_icons=true&locale=en&layout=compact&bg_color=0b0b0b&title_color=ffd43b&text_color=ffffff&icon_color=ffd43b&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StayJagrat&show_icons=true&locale=en&bg_color=0b0b0b&title_color=ffd43b&text_color=ffffff&icon_color=ffd43b&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StayJagrat" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StayJagrat&background=0b0b0b&ring=ffd43b&fire=ffd43b&currStreakLabel=ffd43b&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
