@@ -1,88 +1,141 @@
+<!--
+  GitHub Profile README for github.com/StayJagrat
+  Keep this page focused: strongest work, strongest skills, and clear contact paths.
+-->
+
 <p align="center">
-  <img src="github_profile_banner.png" alt="Jagrat M. Patel Banner" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:7C3AED,100:06B6D4&text=Jagrat%20Patel&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Information%20Systems%20%40%20UMBC%20%7C%20Full-Stack%20%7C%20IT%20%26%20Security&descSize=18&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Jagrat Patel"
+  />
 </p>
 
-<h1 align="center">Hi there, I'm Jagrat M. Patel! 👋</h1>
-
 <p align="center">
-  <strong>Information Systems Student @ UMBC | AI & Web Developer | UI/UX & Motion Designer</strong>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+secure%2C+user-focused+digital+products;Turning+AI+ideas+into+full-stack+experiences;Hackathon+winner+%7C+Designer+%7C+Developer"
+    alt="Animated introduction"
+  />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Motion+Developer+(Framer+%26+GSAP);React+%26+Tailwind+Specialist;AI+Builder+(TensorFlow.js);Hackathon+Winner+%26+Organizer" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://stayjagrat.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-stayjagrat.com-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/stayjagrat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-stayjagrat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jagratpatel20062j@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://stayjagrat.com">
+    <img src="https://img.shields.io/badge/Portfolio-stayjagrat.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/stayjagrat">
+    <img src="https://img.shields.io/badge/LinkedIn-Jagrat%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jagratpatel20062j@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 💫 About Me
+## About Me
 
-I am a Bachelor of Science in Information Systems student (Finance Minor) at the **University of Maryland, Baltimore County (UMBC)**, graduating in **May 2028**. 
+I am an **Information Systems student at UMBC** building secure, useful products at the intersection of **full-stack development, AI, and IT operations**.
 
-I bridge the gap between design and development—creating visually stunning, accessible user interfaces with advanced motion graphics, and powering them with robust AI models and web backends.
+- **IT & Security Intern at Youphoria** — implementing MFA, conditional-access policies, anti-phishing protections, and security-policy improvements.
+- **Two-time HackUMBC 2025 award winner** — Best Health/Environmental Hack and MLH Best `.Tech` Domain for **GreenCrew**.
+- **HackUMBC Sponsorship Team member** — connecting companies, recruiters, and technical communities with the event.
+- I care about products that are **functional, secure, responsive, and easy to use**.
 
-*   🚀 **What I'm building:** Interactive, motion-driven React applications and RAG-based AI tools.
-*   🛡️ **What I'm securing:** Currently working as an **IT & Security Intern** at Youphoria LLC, strengthening compliance and access security.
-*   🎪 **What I'm organizing:** Part of the **Sponsorship Team** for HackUMBC, building relationships with corporate recruiters and sponsors.
-*   💬 **Ask me about:** Framer Motion, GSAP, Tailwind CSS, AI integrations, or building apps in 24-hour hackathon sprints!
+## Technology
 
----
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,nextjs,tailwind,tensorflow,nodejs,express,mongodb,firebase,git,github,figma,linux,vercel&perline=9"
+    alt="Technology stack"
+  />
+</p>
 
-### 🛠️ Tech Stack & Toolkit
+## Featured Projects
 
-| Category | Technologies |
-| --- | --- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend & Motion** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **AI & Web3** | ![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google-gemini&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) |
-| **Tools & Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
----
-
-### 🏆 Highlighted Hackathon Success & Projects
-
-*   **GreenCrew** — *Gamified Sustainability Platform* | [greencrew.tech](https://greencrew.tech)
-    *   🥇 **Winner: Best Health/Environmental Hack & MLH Best .Tech Domain** @ HackUMBC 2025
-    *   Built real-time recyclable detection PWA using TensorFlow.js for in-browser ML inference (85%+ accuracy), Firebase real-time backend, and stunning GSAP dashboards.
-*   **Evidex** — *Digital Forensics & Incident Response Platform* | [evidex.tech](https://evidex.tech)
-    *   💻 *HoyaHacks 2026 project*
-    *   Designed case management dashboards in Next.js & Tailwind CSS. Integrated a Gemini AI RAG pipeline for pattern detection and Solana blockchain for tamper-proof chain-of-custody tracking.
-*   **VoyageAI** — *ML-First RAG Travel Planner*
-    *   ✈️ *Bitcamp 2026 project*
-    *   Designed and built frontend interfaces for a 12-stage RAG travel pipeline, translating ML-generated itineraries and reranked recommendations into smooth trip planning flows.
-*   **CliniScribe** — *AI-Powered Symptom Analysis & Medical Directory* | [cliniscribe.vercel.app](https://cliniscribe.vercel.app)
-    *   🩺 *HopHacks 2025 project*
-    *   Created multilingual React frontend with dynamic risk visualizations, symptom-input flows, Gemini API health assessments, and Google Places medical provider locator.
-
----
-
-### 📊 GitHub Activity & Stats
-
-<table align="center" width="100%">
+<table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=StayJagrat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jagrat's Stats" />
+    <td width="50%" valign="top">
+      <h3 align="center">GreenCrew</h3>
+      <p>
+        Award-winning sustainability PWA that uses in-browser machine learning
+        to identify recyclable items and track XP and CO₂ impact.
+      </p>
+      <p><strong>Highlights:</strong> Built in 24 hours, 85%+ detection accuracy, two HackUMBC awards.</p>
+      <p><strong>Stack:</strong> React, TensorFlow.js, Firebase, GSAP, Framer Motion</p>
+      <p align="center">
+        <a href="https://greencrew.tech"><strong>Live Project ↗</strong></a>
+      </p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StayJagrat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <td width="50%" valign="top">
+      <h3 align="center">Evidex</h3>
+      <p>
+        AI-assisted digital-forensics platform for evidence ingestion,
+        investigator workflows, and blockchain-verified chain of custody.
+      </p>
+      <p><strong>Role:</strong> Frontend Developer & UI/UX Designer</p>
+      <p><strong>Stack:</strong> Next.js, Tailwind CSS, Node.js, MongoDB, Gemini AI, Solana</p>
+      <p align="center">
+        <a href="https://www.evidex.tech"><strong>Live Project ↗</strong></a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=StayJagrat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <td width="50%" valign="top">
+      <h3 align="center">VoyageAI</h3>
+      <p>
+        ML-first travel-planning interface that turns a 12-stage RAG pipeline
+        and reranked recommendations into a clear multi-step user experience.
+      </p>
+      <p><strong>Role:</strong> Frontend Developer & UI/UX Designer</p>
+      <p><strong>Stack:</strong> React, Tailwind CSS, Gemini API, ChromaDB</p>
+      <p align="center">
+        <a href="https://github.com/StayJagrat/Voyage"><strong>View Repository ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">CliniScribe</h3>
+      <p>
+        Multilingual AI health-guidance interface featuring animated symptom
+        flows, severity visualizations, and nearby-care discovery.
+      </p>
+      <p><strong>Role:</strong> UI/UX Designer</p>
+      <p><strong>Stack:</strong> React, Tailwind CSS, Framer Motion, Gemini API, Google Places API</p>
+      <p align="center">
+        <a href="https://cliniscribe.vercel.app"><strong>Live Project ↗</strong></a>
+      </p>
     </td>
   </tr>
 </table>
 
----
+<details>
+  <summary><strong>Current Focus</strong></summary>
+  <br/>
+  <ul>
+    <li>Building polished React and Next.js product experiences</li>
+    <li>Applying AI to useful, explainable workflows</li>
+    <li>Improving identity, access, phishing, and account-security controls</li>
+    <li>Connecting technical execution with business and user needs</li>
+  </ul>
+</details>
+
+## Connect
+
+I am interested in **Information Systems, IT/security, frontend, and AI-product opportunities**.
 
 <p align="center">
-  <i>"Designing the future, one keyframe and node at a time."</i><br>
-  📬 Let's collaborate! Feel free to connect via <a href="https://linkedin.com/in/stayjagrat">LinkedIn</a> or drop an email.
+  <a href="https://stayjagrat.com">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/stayjagrat">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:jagratpatel20062j@gmail.com">Email</a>
 </p>
+
+<p align="center">
+  <em>Secure by design. Useful by default.</em>
+</p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,50:7C3AED,100:06B6D4&section=footer"
+  width="100%"
+  alt=""
+/>
