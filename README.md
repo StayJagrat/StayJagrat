@@ -1,80 +1,32 @@
-<!--
-  GitHub Profile README for github.com/StayJagrat
-  Theme: Immersive E-Commerce / Apple Product Page
--->
-
-<div align="center">
+<h1 align="center">Hi 👋, I'm Jagrat Patel</h1>
+<h3 align="center">A passionate Full Stack Developer & IT Security Intern from the United States</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=000000&text=Pro.%20Beyond.%20Jagrat.&fontColor=ffffff&fontSize=40&desc=The%20most%20powerful%20Information%20Systems%20stack%20ever.&descSize=15&descAlignY=65" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=StayJagrat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-# Meet Jagrat Patel.
-### A masterclass in Full-Stack & Security.
+<p align="center">
+  🔭 I’m currently working on <b><a href="https://greencrew.tech">GreenCrew</a></b> and <b><a href="https://www.evidex.tech">Evidex</a></b><br>
+  👨‍💻 All of my projects are available at <a href="https://stayjagrat.com">stayjagrat.com</a><br>
+  📫 How to reach me: <b><a href="mailto:jagratpatel20062j@gmail.com">jagratpatel20062j@gmail.com</a></b>
+</p>
 
-<br>
+### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/stayjagrat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stayjagrat.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/StayJagrat" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-<a href="https://stayjagrat.com" style="text-decoration:none; color:#0A66C2; font-size: 18px;"><b>Buy Now (Portfolio) ></b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stayjagrat" style="text-decoration:none; color:#0A66C2; font-size: 18px;"><b>Learn More (LinkedIn) ></b></a>
+### Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,firebase,tensorflow,git,linux,figma,vercel&perline=15" />
+</p>
 
-<br><br><br>
-
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,mongodb&theme=dark&perline=6" width="350" />
-<br>
-<p style="color:#666666;"><i>Supercharged by the React & Python Neural Engines.</i></p>
-
-<br><br>
-
----
-
-<br><br>
-
-# Four new features. All pro.
-
-<br>
-
-### 📱 GreenCrew (Active)
-**Machine learning in your browser.** <br>
-<span style="color:#666666;">*An award-winning PWA leveraging TensorFlow.js. 2x HackUMBC Winner.*</span> <br>
-<a href="https://greencrew.tech" style="text-decoration:none; color:#0A66C2;">Explore GreenCrew ></a>
-
-<br><br>
-
-### 🔒 Evidex (Active)
-**Security, verifiable on the blockchain.** <br>
-<span style="color:#666666;">*A digital-forensics platform powered by Solana and Gemini AI.*</span> <br>
-<a href="https://www.evidex.tech" style="text-decoration:none; color:#0A66C2;">Explore Evidex ></a>
-
-<br><br>
-
-### ✈️ VoyageAI (Stable)
-**The ultimate travel planner.** <br>
-<span style="color:#666666;">*12-stage RAG pipeline. It's smart, and getting smarter.*</span> <br>
-<a href="https://github.com/StayJagrat/Voyage" style="text-decoration:none; color:#0A66C2;">View Source ></a>
-
-<br><br>
-
-### 🏥 CliniScribe (Stable)
-**Health guidance, beautifully animated.** <br>
-<span style="color:#666666;">*Multilingual, Framer Motion UI. Discover nearby care effortlessly.*</span> <br>
-<a href="https://cliniscribe.vercel.app" style="text-decoration:none; color:#0A66C2;">Explore CliniScribe ></a>
-
-<br><br>
-
----
-
-<br><br>
-
-# Magic runs in the family.
-
-<img src="https://github-readme-stats.vercel.app/api?username=StayJagrat&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=StayJagrat&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff" width="48%" />
-
-<br><br>
-<p style="color:#666666;"><i>Designed by Jagrat in Maryland.</i></p>
-<p style="color:#666666;"><i>Secure by design. Useful by default.</i></p>
-<br>
-<a href="mailto:jagratpatel20062j@gmail.com"><img src="https://img.shields.io/badge/Contact%20Sales%20(Email)-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
-
-<br><br>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StayJagrat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StayJagrat&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StayJagrat" alt="GitHub Streak" />
+</p>
