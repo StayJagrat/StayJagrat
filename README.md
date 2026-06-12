@@ -1,166 +1,293 @@
-<img width="1200" height="560" alt="profile-combined-hero-about" src="https://github.com/user-attachments/assets/7a7ab76c-a02a-4c55-87b5-14f6f05349e1" />
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#050505"/>
-      <stop offset="55%" stop-color="#0B0B0B"/>
-      <stop offset="100%" stop-color="#141414"/>
-    </linearGradient>
+<!--
+  StayJagrat — GitHub Profile
+  Minimal black + gold system inspired by stayjagrat.com
+-->
 
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#9A7200"/>
-      <stop offset="40%" stop-color="#FFD43B"/>
-      <stop offset="55%" stop-color="#FFF1A8"/>
-      <stop offset="70%" stop-color="#FFD43B"/>
-      <stop offset="100%" stop-color="#9A7200"/>
-    </linearGradient>
+<!-- =========================================================
+     JAGRAT PATEL — GITHUB PROFILE
+     Minimal Black + Gold
+========================================================= -->
 
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+<div align="center">
 
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" fill="none" stroke="#FFD43B" stroke-opacity="0.045" stroke-width="1"/>
-    </pattern>
+<img
+  src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/assets/animated-hero.svg"
+  width="100%"
+  alt="Jagrat Patel animated profile banner"
+src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/assets/animated-hero.svg"
+width="100%"
+alt="Jagrat Patel animated profile banner"
+/>
 
-    <clipPath id="taglineClip">
-      <rect x="300" y="168" width="0" height="30">
-        <animate attributeName="width" values="0;600;600;0" keyTimes="0;0.18;0.88;1" dur="9s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
+<br>
 
-    <clipPath id="clip1"><rect x="90" y="285" width="0" height="28"><animate attributeName="width" values="0;245;245;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="clip2"><rect x="90" y="320" width="0" height="28"><animate attributeName="width" values="0;520;520;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="clip3"><rect x="90" y="355" width="0" height="28"><animate attributeName="width" values="0;200;200;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="clip4"><rect x="90" y="390" width="0" height="28"><animate attributeName="width" values="0;645;645;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="clip5"><rect x="90" y="425" width="0" height="28"><animate attributeName="width" values="0;645;645;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="clip6"><rect x="90" y="460" width="0" height="28"><animate attributeName="width" values="0;485;485;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="clip7"><rect x="90" y="495" width="0" height="28"><animate attributeName="width" values="0;785;785;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/></rect></clipPath>
-  </defs>
+<a href="https://stayjagrat.com">
+<img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=FFD43B" alt="Portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=FFD43B" alt="Portfolio">
+</a>
 
-  <rect width="1200" height="560" rx="0" fill="url(#background)"/>
-  <rect width="1200" height="560" fill="url(#grid)"/>
+<a href="https://www.linkedin.com/in/stayjagrat">
+<img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFD43B" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFD43B" alt="LinkedIn">
+</a>
 
-  <circle cx="205" cy="95" r="105" fill="#FFD43B" opacity="0.035">
-    <animate attributeName="cx" values="190;260;190" dur="8s" repeatCount="indefinite"/>
-  </circle>
+<a href="mailto:jagratpatel20062j@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFD43B" alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFD43B" alt="Email">
+</a>
 
-  <circle cx="980" cy="165" r="120" fill="#FFD43B" opacity="0.03">
-    <animate attributeName="cx" values="980;910;980" dur="9s" repeatCount="indefinite"/>
-  </circle>
+<br><br>
 
-  <circle cx="150" cy="475" r="95" fill="#FFD43B" opacity="0.018">
-    <animate attributeName="cx" values="130;205;130" dur="8s" repeatCount="indefinite"/>
-  </circle>
+<a href="#about">About</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#technical-foundation">Skills</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#selected-work">Projects</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#github-activity">Activity</a>
 
-  <text x="600" y="118" text-anchor="middle" fill="url(#gold)"
-        font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800"
-        letter-spacing="5" filter="url(#glow)">
-    JAGRAT PATEL
-    <animate attributeName="opacity" values="0.72;1;0.72" dur="3s" repeatCount="indefinite"/>
-  </text>
+</div>
 
-  <g clip-path="url(#taglineClip)">
-    <text x="600" y="190" text-anchor="middle" fill="#FFFFFF"
-          font-family="JetBrains Mono, Consolas, monospace" font-size="22" font-weight="700"
-          letter-spacing="2">
-      FULL-STACK | IT SECURITY | APPLIED AI
-    </text>
-  </g>
+---
+@@ -42,9 +35,9 @@
+<div align="center">
 
-  <rect y="170" width="10" height="25" fill="#FFD43B">
-    <animate attributeName="x" values="300;900;900;300" keyTimes="0;0.18;0.88;1" dur="9s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.88;0.99;1" dur="9s" repeatCount="indefinite"/>
-  </rect>
+<img
+  src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/assets/about-card.svg"
+  width="100%"
+  alt="About Jagrat Patel"
+src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/assets/about-card.svg"
+width="100%"
+alt="About Jagrat Patel"
+/>
 
-  <rect x="430" y="225" width="340" height="2" rx="1" fill="#FFD43B" opacity="0.65">
-    <animate attributeName="width" values="90;340;90" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="x" values="555;430;555" dur="4s" repeatCount="indefinite"/>
-  </rect>
+</div>
+@@ -55,26 +48,26 @@
 
-  <text x="90" y="265" fill="#FFD43B" font-family="JetBrains Mono, Consolas, monospace" font-size="17" font-weight="700" letter-spacing="4">
-    ABOUT / IDENTITY
-    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
-  </text>
+<div align="center">
 
-  <g clip-path="url(#clip1)">
-    <text x="90" y="303" font-family="JetBrains Mono, Consolas, monospace" font-size="18">
-      <tspan fill="#FFD43B">name</tspan><tspan fill="#FFFFFF">: </tspan><tspan fill="#FFF4C2">"Jagrat Patel"</tspan><tspan fill="#FFFFFF">,</tspan>
-    </text>
-  </g>
+### Core Stack
+### Development
 
-  <g clip-path="url(#clip2)">
-    <text x="90" y="338" font-family="JetBrains Mono, Consolas, monospace" font-size="18">
-      <tspan fill="#FFD43B">education</tspan><tspan fill="#FFFFFF">: </tspan><tspan fill="#FFF4C2">"B.S. Information Systems @ UMBC"</tspan><tspan fill="#FFFFFF">,</tspan>
-    </text>
-  </g>
+<img
+  src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,firebase,python,cpp,tensorflow,tailwind,git&perline=12"
+  alt="Core technical stack"
+src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,firebase,python,cpp,tensorflow,tailwind,git&perline=6"
+alt="Development skills"
+/>
 
-  <g clip-path="url(#clip3)">
-    <text x="90" y="373" font-family="JetBrains Mono, Consolas, monospace" font-size="18">
-      <tspan fill="#FFD43B">minor</tspan><tspan fill="#FFFFFF">: </tspan><tspan fill="#FFF4C2">"Finance"</tspan><tspan fill="#FFFFFF">,</tspan>
-    </text>
-  </g>
+<br><br>
 
-  <g clip-path="url(#clip4)">
-    <text x="90" y="408" font-family="JetBrains Mono, Consolas, monospace" font-size="18">
-      <tspan fill="#FFD43B">currentPosition</tspan><tspan fill="#FFFFFF">: </tspan><tspan fill="#FFF4C2">"IT &amp; Security Intern @ Youphoria LLC"</tspan><tspan fill="#FFFFFF">,</tspan>
-    </text>
-  </g>
+### Product & Platform
+### Design, Systems & Deployment
 
-  <g clip-path="url(#clip5)">
-    <text x="90" y="443" font-family="JetBrains Mono, Consolas, monospace" font-size="18">
-      <tspan fill="#FFD43B">organization</tspan><tspan fill="#FFFFFF">: </tspan><tspan fill="#FFF4C2">"Sponsorship Committee Member @ HackUMBC"</tspan><tspan fill="#FFFFFF">,</tspan>
-    </text>
-  </g>
+<img
+  src="https://skillicons.dev/icons?i=html,css,figma,github,linux,vercel,vscode&perline=7"
+  alt="Product and platform tools"
+src="https://skillicons.dev/icons?i=html,css,figma,github,linux,vercel,vscode&perline=7"
+alt="Design, systems, and deployment tools"
+/>
 
-  <g clip-path="url(#clip6)">
-    <text x="90" y="478" font-family="JetBrains Mono, Consolas, monospace" font-size="18">
-      <tspan fill="#FFD43B">achievements</tspan><tspan fill="#FFFFFF">: [</tspan><tspan fill="#FFF4C2">"2× HackUMBC 2025 Winner"</tspan><tspan fill="#FFFFFF">],</tspan>
-    </text>
-  </g>
+<br><br>
 
-  <g clip-path="url(#clip7)">
-    <text x="90" y="513" font-family="JetBrains Mono, Consolas, monospace" font-size="18">
-      <tspan fill="#FFD43B">awards</tspan><tspan fill="#FFFFFF">: [</tspan><tspan fill="#FFF4C2">"Best Health/Environmental Hack"</tspan><tspan fill="#FFFFFF">, </tspan><tspan fill="#FFF4C2">"MLH Best .Tech Domain"</tspan><tspan fill="#FFFFFF">]</tspan>
-    </text>
-  </g>
+<sub>
+<strong>Security:</strong>
+<b>Security:</b>
+MFA · Conditional Access · Anti-Phishing · Account Protection · Security Monitoring
+</sub>
 
-  <rect y="289" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;330;330;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite"/>
-  </rect>
+@@ -89,39 +82,59 @@ MFA · Conditional Access · Anti-Phishing · Account Protection · Security Mon
+<td width="50%" valign="top">
 
-  <rect y="324" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;605;605;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite"/>
-  </rect>
+<h3 align="center">GreenCrew</h3>
+<p align="center"><b>AI Sustainability Platform</b></p>
 
-  <rect y="359" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;284;284;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite"/>
-  </rect>
+<p align="center">
+<b>AI-Powered Sustainability Platform</b>
+</p>
 
-  <rect y="394" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;731;731;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite"/>
-  </rect>
+<p>
+A gamified web application that recognizes everyday items and helps users decide whether to reuse, sell, donate, or recycle them.
+A gamified web application that recognizes everyday items and helps users determine whether to reuse, sell, donate, or recycle them.
+</p>
 
-  <rect y="429" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;731;731;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite"/>
-  </rect>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,firebase,tensorflow&theme=dark" height="38" alt="GreenCrew technologies">
+<img
+src="https://skillicons.dev/icons?i=react,firebase,tensorflow&theme=dark"
+height="40"
+alt="GreenCrew technology stack"
+>
+</p>
 
-  <rect y="464" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;570;570;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite"/>
-  </rect>
+<p align="center">
+<a href="https://greencrew.tech">
+<img src="https://img.shields.io/badge/Explore_GreenCrew-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Explore GreenCrew">
+<img
+src="https://img.shields.io/badge/EXPLORE%20PROJECT-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000"
+alt="Explore GreenCrew"
+>
+</a>
+</p>
 
-  <rect y="499" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;868;868;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Evidex</h3>
+<p align="center"><b>AI-Assisted Digital Forensics</b></p>
+
+<p align="center">
+<b>AI-Assisted Digital Forensics</b>
+</p>
+
+<p>
+A security-focused platform for organizing evidence, supporting analysis, and maintaining clear, traceable digital records.
+A security-focused platform for organizing digital evidence, supporting analysis, and maintaining clear and traceable records.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark" height="38" alt="Evidex technologies">
+<img
+src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark"
+height="40"
+alt="Evidex technology stack"
+>
+</p>
+
+<p align="center">
+<a href="https://www.evidex.tech">
+<img src="https://img.shields.io/badge/Explore_Evidex-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Explore Evidex">
+<img
+src="https://img.shields.io/badge/EXPLORE%20PROJECT-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000"
+alt="Explore Evidex"
+>
+</a>
+</p>
+
+@@ -132,34 +145,38 @@ A security-focused platform for organizing evidence, supporting analysis, and ma
+<div align="center">
+
+<sub>
+GreenCrew earned <strong>Best Health/Environmental Hack</strong> and
+<strong>MLH Best .Tech Domain</strong> at HackUMBC 2025.
+GreenCrew received <b>Best Health/Environmental Hack</b> and
+<b>MLH Best .Tech Domain</b> at HackUMBC 2025.
+</sub>
+
+</div>
+
+---
+
+## Experience & Community
+## Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### IT & Security Intern
+<h3>IT & Security Intern</h3>
+
+**Youphoria LLC**
+<b>Youphoria LLC</b>
+
+Supporting secure access, account protection, anti-phishing controls, and security monitoring.
+<p>
+Supporting access security, account protection, anti-phishing controls, and security monitoring.
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### Sponsorship Team
+<h3>Sponsorship Team</h3>
+
+**HackUMBC**
+<b>HackUMBC</b>
+
+Supporting outreach, partnerships, and resources for Maryland's student hackathon community.
+<p>
+Supporting sponsor outreach, corporate partnerships, and resources for the hackathon community.
+</p>
+
+</td>
+</tr>
+@@ -172,23 +189,23 @@ Supporting outreach, partnerships, and resources for Maryland's student hackatho
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=StayJagrat&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&bg_color=0B0B0B&text_color=FFFFFF&icon_color=FFD43B&border_color=2A2A2A"
+  alt="GitHub statistics"
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=StayJagrat&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&bg_color=0B0B0B&text_color=FFFFFF&icon_color=FFD43B&border_color=2A2A2A"
+alt="Jagrat Patel GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com?user=StayJagrat&hide_total_contributions=true&background=0B0B0B&border=2A2A2A&stroke=FFD43B&ring=FFD43B&fire=FFD43B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD43B&sideLabels=BBBBBB&dates=777777"
+  alt="GitHub streak"
+width="49%"
+src="https://streak-stats.demolab.com?user=StayJagrat&hide_total_contributions=true&background=0B0B0B&border=2A2A2A&stroke=FFD43B&ring=FFD43B&fire=FFD43B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD43B&sideLabels=BBBBBB&dates=777777"
+alt="Jagrat Patel GitHub streak"
+/>
+
+<br><br>
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=StayJagrat&bg_color=0B0B0B&color=BBBBBB&line=FFD43B&point=FFFFFF&area=true&area_color=FFD43B&hide_border=true&custom_title=Contribution%20Activity"
+  alt="Contribution activity graph"
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=StayJagrat&bg_color=0B0B0B&color=BBBBBB&line=FFD43B&point=FFFFFF&area=true&area_color=FFD43B&hide_border=true&custom_title=Contribution%20Activity"
+alt="Jagrat Patel contribution activity"
+/>
+
+</div>
+@@ -202,17 +219,17 @@ Supporting outreach, partnerships, and resources for Maryland's student hackatho
+
+<picture>
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake-dark.svg"
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake-dark.svg"
+>
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake.svg"
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake.svg"
+>
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake.svg"
+  alt="Contribution animation"
+width="100%"
+src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake.svg"
+alt="Animated GitHub contribution snake"
+>
+</picture>
+
+@@ -224,14 +241,18 @@ Supporting outreach, partnerships, and resources for Maryland's student hackatho
+
+<div align="center">
+
+### Build with purpose. Design with clarity. Secure by default.
+### Build with purpose. Design with clarity.
+
+<a href="https://stayjagrat.com">
+<img src="https://img.shields.io/badge/Explore_My_Work-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Explore my work">
+<img
+src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000"
+alt="Explore Jagrat Patel portfolio"
+>
+</a>
+
+<br><br>
+
+<sub>Jagrat Patel · Maryland, USA</sub>
+
+</div>
+```
