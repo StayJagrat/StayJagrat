@@ -17,11 +17,11 @@
 
 ### 👨‍💻 `whoami`
 <blockquote>
-  <p>I’m an Information Systems student at UMBC bridging the gap between elegant UI and robust backend security.</p>
+  <p>I am a passionate Full Stack Developer and IT Security professional, currently pursuing a B.S. in Information Systems at <b>UMBC</b>. I specialize in bridging the gap between elegant user interfaces, scalable AI integrations, and robust infrastructure security.</p>
   <ul>
-    <li>🔭 Currently building <b><a href="https://greencrew.tech">GreenCrew</a></b> and <b><a href="https://www.evidex.tech">Evidex</a></b>.</li>
-    <li>💼 IT & Security Intern at <b>Youphoria</b>.</li>
-    <li>🏆 2x HackUMBC 2025 Winner (Best Health/Env Hack & MLH Best .Tech)</li>
+    <li>💼 <b>IT & Security Intern @ Youphoria LLC</b> — Hardening enterprise security postures via conditional access, MFA, and anti-phishing policies.</li>
+    <li>🤝 <b>Sponsorship Team @ HackUMBC</b> — Securing corporate partnerships, funding, and resources for Maryland's premier hackathon.</li>
+    <li>🏆 <b>Award-Winning Developer</b> — 2x HackUMBC 2025 Winner (Best Health/Env Hack & MLH Best .Tech Domain).</li>
   </ul>
 </blockquote>
 
