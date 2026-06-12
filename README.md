@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="./animated-hero.svg"
+    src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/animated-hero.svg"
     width="100%"
     alt="Jagrat Patel animated profile banner"
   />
