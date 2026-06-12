@@ -119,17 +119,17 @@
   <br><br>
   <h2>
     <a href="https://stayjagrat.com">
-      <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" height="24" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/-111111?style=flat-square&logo=googlechrome&logoColor=FFFFFF" height="24" alt="Portfolio" />
       &nbsp;PORTFOLIO
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/stayjagrat">
-      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/-111111?style=flat-square&logo=linkedin&logoColor=0A66C2" height="24" alt="LinkedIn" />
       &nbsp;LINKEDIN
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:jagratpatel20062j@gmail.com">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" height="24" alt="Email" />
+      <img src="https://img.shields.io/badge/-111111?style=flat-square&logo=gmail&logoColor=EA4335" height="24" alt="Email" />
       &nbsp;EMAIL
     </a>
   </h2>
