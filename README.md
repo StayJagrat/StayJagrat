@@ -113,27 +113,27 @@
 <div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=StayJagrat&label=PROFILE%20VIEWS&style=for-the-badge&color=B8860B"
-    height="62"
+    height="84"
     alt="Profile views"
   />
   <br><br>
   <a href="https://stayjagrat.com">
     <img
-      height="62"
+      height="84"
       src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"
       alt="Portfolio"
     />
   </a>
   <a href="https://www.linkedin.com/in/stayjagrat">
     <img
-      height="62"
+      height="84"
       src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
       alt="LinkedIn"
     />
   </a>
   <a href="mailto:jagratpatel20062j@gmail.com">
     <img
-      height="62"
+      height="84"
       src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"
       alt="Email"
     />
