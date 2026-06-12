@@ -1,104 +1,427 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#070707"/>
-      <stop offset="55%" stop-color="#0d0d0d"/>
-      <stop offset="100%" stop-color="#141414"/>
-    </linearGradient>
 
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8a6500"/>
-      <stop offset="35%" stop-color="#ffd43b"/>
-      <stop offset="50%" stop-color="#fff3b0"/>
-      <stop offset="65%" stop-color="#ffd43b"/>
-      <stop offset="100%" stop-color="#8a6500"/>
-    </linearGradient>
+```
+<!-- Background -->
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#050505"/>
+  <stop offset="55%" stop-color="#0B0B0B"/>
+  <stop offset="100%" stop-color="#141414"/>
+</linearGradient>
 
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+<!-- Subtle background grid -->
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+  <path
+    d="M32 0H0V32"
+    fill="none"
+    stroke="#FFD43B"
+    stroke-width="1"
+    stroke-opacity="0.045"
+  />
+</pattern>
 
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#ffd43b" stroke-opacity="0.055" stroke-width="1"/>
-    </pattern>
+<!-- Typing masks -->
+
+<clipPath id="line1">
+  <rect x="78" y="70" width="0" height="28">
+    <animate
+      attributeName="width"
+      values="0;300;300;0"
+      keyTimes="0;0.1;0.94;1"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</clipPath>
+
+<clipPath id="line2">
+  <rect x="78" y="105" width="0" height="28">
+    <animate
+      attributeName="width"
+      values="0;360;360;0"
+      keyTimes="0;0.1;0.94;1"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</clipPath>
+
+<clipPath id="line3">
+  <rect x="78" y="140" width="0" height="28">
+    <animate
+      attributeName="width"
+      values="0;640;640;0"
+      keyTimes="0;0.1;0.94;1"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</clipPath>
+
+<clipPath id="line4">
+  <rect x="78" y="175" width="0" height="28">
+    <animate
+      attributeName="width"
+      values="0;330;330;0"
+      keyTimes="0;0.1;0.94;1"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</clipPath>
+
+<clipPath id="line5">
+  <rect x="78" y="210" width="0" height="28">
+    <animate
+      attributeName="width"
+      values="0;760;760;0"
+      keyTimes="0;0.1;0.94;1"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</clipPath>
+
+<clipPath id="line6">
+  <rect x="78" y="245" width="0" height="28">
+    <animate
+      attributeName="width"
+      values="0;840;840;0"
+      keyTimes="0;0.1;0.94;1"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</clipPath>
+
+<clipPath id="line7">
+  <rect x="78" y="280" width="0" height="28">
+    <animate
+      attributeName="width"
+      values="0;650;650;0"
+      keyTimes="0;0.1;0.94;1"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</clipPath>
+
+<clipPath id="line8">
+  <rect x="78" y="315" width="0" height="28">
+    <animate
+      attributeName="width"
+      values="0;1000;1000;0"
+      keyTimes="0;0.1;0.94;1"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</clipPath>
+
+<clipPath id="line9">
+  <rect x="78" y="350" width="0" height="28">
+    <animate
+      attributeName="width"
+      values="0;430;430;0"
+      keyTimes="0;0.1;0.94;1"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</clipPath>
+
+<clipPath id="line10">
+  <rect x="78" y="385" width="0" height="28">
+    <animate
+      attributeName="width"
+      values="0;90;90;0"
+      keyTimes="0;0.1;0.94;1"
+      dur="60s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</clipPath>
+```
+
   </defs>
 
-  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="26" fill="url(#grid)"/>
+  <!-- Main background -->
 
-  <rect x="1.5" y="1.5" width="1197" height="297" rx="24.5" fill="none"
-        stroke="#ffd43b" stroke-width="3" stroke-opacity="0.38">
-    <animate attributeName="stroke-opacity" values="0.22;0.75;0.22" dur="3.2s" repeatCount="indefinite"/>
+<rect
+ width="1200"
+ height="430"
+ rx="26"
+ fill="url(#background)"
+/>
+
+<rect
+ width="1200"
+ height="430"
+ rx="26"
+ fill="url(#grid)"
+/>
+
+  <!-- Animated border -->
+
+<rect
+x="2"
+y="2"
+width="1196"
+height="426"
+rx="24"
+fill="none"
+stroke="#FFD43B"
+stroke-width="3"
+stroke-opacity="0.42"
+
+>
+
+```
+<animate
+```
+
+```
+  attributeName="stroke-opacity"
+  values="0.28;0.72;0.28"
+  dur="4s"
+  repeatCount="indefinite"
+/>
+```
+
   </rect>
 
-  <circle cx="1070" cy="70" r="110" fill="#ffd43b" opacity="0.035">
-    <animate attributeName="r" values="90;135;90" dur="6s" repeatCount="indefinite"/>
+  <!-- Subtle decorative lighting -->
+
+<circle
+cx="1080"
+cy="80"
+r="120"
+fill="#FFD43B"
+opacity="0.025"
+
+>
+
+```
+<animate
+```
+
+```
+  attributeName="r"
+  values="105;135;105"
+  dur="7s"
+  repeatCount="indefinite"
+/>
+```
+
   </circle>
 
-  <circle cx="150" cy="245" r="95" fill="#ffd43b" opacity="0.025">
-    <animate attributeName="cx" values="130;220;130" dur="7s" repeatCount="indefinite"/>
+<circle
+cx="170"
+cy="360"
+r="100"
+fill="#FFD43B"
+opacity="0.018"
+
+>
+
+```
+<animate
+```
+
+```
+  attributeName="cx"
+  values="150;220;150"
+  dur="8s"
+  repeatCount="indefinite"
+/>
+```
+
   </circle>
 
-  <text x="70" y="62" fill="#ffd43b" font-family="Arial, Helvetica, sans-serif"
-        font-size="15" font-weight="700" letter-spacing="4">
-    ABOUT / 01
-    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.5s" repeatCount="indefinite"/>
+  <!-- Section heading -->
+
+<text
+x="78"
+y="48"
+fill="#FFD43B"
+font-family="JetBrains Mono, Consolas, monospace"
+font-size="17"
+font-weight="700"
+letter-spacing="4"
+
+>
+
+```
+ABOUT / IDENTITY
+```
+
+```
+<animate
+  attributeName="opacity"
+  values="0.45;1;0.45"
+  dur="3s"
+  repeatCount="indefinite"
+/>
+```
+
   </text>
 
-  <text x="70" y="110" fill="#ffffff" font-family="Georgia, serif"
-        font-size="25" font-weight="700">
-    I build digital experiences
-  </text>
+  <!-- Code line 1 -->
 
-  <text x="70" y="148" fill="#ffffff" font-family="Georgia, serif"
-        font-size="25" font-weight="700">
-    that feel intentional,
-  </text>
+  <g clip-path="url(#line1)">
+    <text
+      x="78"
+      y="88"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="20"
+    >
+      <tspan fill="#FFD43B">const</tspan>
+      <tspan fill="#FFFFFF"> jagrat = {</tspan>
+    </text>
+  </g>
 
-  <text x="70" y="191" fill="url(#gold)" font-family="Georgia, serif"
-        font-size="28" font-weight="700" filter="url(#glow)">
-    perform reliably, and leave a lasting impression.
-  </text>
+  <!-- Code line 2 -->
 
-  <text x="70" y="231" fill="#b9b9b9" font-family="Arial, Helvetica, sans-serif"
-        font-size="15">
-    Thoughtful design, practical engineering, and clear purpose in every build.
-  </text>
+  <g clip-path="url(#line2)">
+    <text
+      x="78"
+      y="123"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="18"
+    >
+      <tspan fill="#FFD43B">  name</tspan>
+      <tspan fill="#FFFFFF">: </tspan>
+      <tspan fill="#FFF2B3">"Jagrat Patel"</tspan>
+      <tspan fill="#FFFFFF">,</tspan>
+    </text>
+  </g>
 
-  <line x1="790" y1="58" x2="790" y2="242" stroke="#ffd43b" stroke-opacity="0.22"/>
+  <!-- Code line 3 -->
 
-  <text x="835" y="82" fill="#777777" font-family="Arial, Helvetica, sans-serif"
-        font-size="12" font-weight="700" letter-spacing="2">
-    EDUCATION
-  </text>
-  <text x="835" y="108" fill="#ffffff" font-family="Arial, Helvetica, sans-serif"
-        font-size="16.5" font-weight="700">
-    B.S. Information Systems · UMBC
-  </text>
+  <g clip-path="url(#line3)">
+    <text
+      x="78"
+      y="158"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="18"
+    >
+      <tspan fill="#FFD43B">  education</tspan>
+      <tspan fill="#FFFFFF">: </tspan>
+      <tspan fill="#FFF2B3">"B.S. Information Systems @ UMBC"</tspan>
+      <tspan fill="#FFFFFF">,</tspan>
+    </text>
+  </g>
 
-  <text x="835" y="152" fill="#777777" font-family="Arial, Helvetica, sans-serif"
-        font-size="12" font-weight="700" letter-spacing="2">
-    MINOR
-  </text>
-  <text x="835" y="178" fill="#ffffff" font-family="Arial, Helvetica, sans-serif"
-        font-size="16.5" font-weight="700">
-    Finance
-  </text>
+  <!-- Code line 4 -->
 
-  <text x="835" y="222" fill="#777777" font-family="Arial, Helvetica, sans-serif"
-        font-size="12" font-weight="700" letter-spacing="2">
-    BASED IN
-  </text>
-  <text x="835" y="248" fill="#ffffff" font-family="Arial, Helvetica, sans-serif"
-        font-size="16.5" font-weight="700">
-    Maryland, USA
-  </text>
+  <g clip-path="url(#line4)">
+    <text
+      x="78"
+      y="193"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="18"
+    >
+      <tspan fill="#FFD43B">  minor</tspan>
+      <tspan fill="#FFFFFF">: </tspan>
+      <tspan fill="#FFF2B3">"Finance"</tspan>
+      <tspan fill="#FFFFFF">,</tspan>
+    </text>
+  </g>
 
-  <rect x="70" y="260" width="220" height="2" rx="1" fill="#ffd43b">
-    <animate attributeName="width" values="70;220;70" dur="3.8s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Code line 5 -->
+
+  <g clip-path="url(#line5)">
+    <text
+      x="78"
+      y="228"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="18"
+    >
+      <tspan fill="#FFD43B">  currentPosition</tspan>
+      <tspan fill="#FFFFFF">: </tspan>
+      <tspan fill="#FFF2B3">"IT &amp; Security Intern @ Youphoria LLC"</tspan>
+      <tspan fill="#FFFFFF">,</tspan>
+    </text>
+  </g>
+
+  <!-- Code line 6 -->
+
+  <g clip-path="url(#line6)">
+    <text
+      x="78"
+      y="263"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="18"
+    >
+      <tspan fill="#FFD43B">  organization</tspan>
+      <tspan fill="#FFFFFF">: </tspan>
+      <tspan fill="#FFF2B3">"Sponsorship Committee Member @ HackUMBC"</tspan>
+      <tspan fill="#FFFFFF">,</tspan>
+    </text>
+  </g>
+
+  <!-- Code line 7 -->
+
+  <g clip-path="url(#line7)">
+    <text
+      x="78"
+      y="298"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="18"
+    >
+      <tspan fill="#FFD43B">  achievement</tspan>
+      <tspan fill="#FFFFFF">: </tspan>
+      <tspan fill="#FFF2B3">"2× HackUMBC 2025 Winner"</tspan>
+      <tspan fill="#FFFFFF">,</tspan>
+    </text>
+  </g>
+
+  <!-- Code line 8 -->
+
+  <g clip-path="url(#line8)">
+    <text
+      x="78"
+      y="333"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="18"
+    >
+      <tspan fill="#FFD43B">  awards</tspan>
+      <tspan fill="#FFFFFF">: [</tspan>
+      <tspan fill="#FFF2B3">"Best Health/Environmental Hack"</tspan>
+      <tspan fill="#FFFFFF">, </tspan>
+      <tspan fill="#FFF2B3">"MLH Best .Tech Domain"</tspan>
+      <tspan fill="#FFFFFF">],</tspan>
+    </text>
+  </g>
+
+  <!-- Code line 9 -->
+
+  <g clip-path="url(#line9)">
+    <text
+      x="78"
+      y="368"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="18"
+    >
+      <tspan fill="#FFD43B">  location</tspan>
+      <tspan fill="#FFFFFF">: </tspan>
+      <tspan fill="#FFF2B3">"Maryland, USA"</tspan>
+    </text>
+  </g>
+
+  <!-- Closing bracket -->
+
+  <g clip-path="url(#line10)">
+    <text
+      x="78"
+      y="403"
+      fill="#FFFFFF"
+      font-family="JetBrains Mono, Consolas, monospace"
+      font-size="20"
+    >
+      };
+    </text>
+  </g>
+
 </svg>
