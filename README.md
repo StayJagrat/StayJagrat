@@ -114,13 +114,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/stayjagrat">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="46" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="58" alt="LinkedIn" />
   </a>
   <a href="mailto:jagratpatel20062j@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-C65A3A?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="46" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-C65A3A?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="58" alt="Email" />
   </a>
   <a href="https://stayjagrat.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="46" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="58" alt="Portfolio" />
   </a>
 </div>
 
@@ -129,6 +129,7 @@
 <div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=StayJagrat&label=Profile%20views&style=flat&color=2F81F7"
+    height="34"
     alt="Profile views"
   />
 </div>
