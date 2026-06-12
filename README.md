@@ -110,27 +110,25 @@
 
 ---
 
+## Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/stayjagrat">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="46" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jagratpatel20062j@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-C65A3A?style=for-the-badge&logo=gmail&logoColor=FFFFFF" height="46" alt="Email" />
+  </a>
+  <a href="https://stayjagrat.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="46" alt="Portfolio" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=StayJagrat&label=PROFILE%20VIEWS&style=for-the-badge&color=B8860B"
-    height="84"
+    src="https://komarev.com/ghpvc/?username=StayJagrat&label=Profile%20views&style=flat&color=2F81F7"
     alt="Profile views"
   />
-  <br><br>
-  <h2>
-    <a href="https://stayjagrat.com">
-      <img src="https://img.shields.io/badge/-111111?style=flat-square&logo=googlechrome&logoColor=FFFFFF" height="24" alt="Portfolio" />
-      &nbsp;PORTFOLIO
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/stayjagrat">
-      <img src="https://img.shields.io/badge/-111111?style=flat-square&logo=linkedin&logoColor=0A66C2" height="24" alt="LinkedIn" />
-      &nbsp;LINKEDIN
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="mailto:jagratpatel20062j@gmail.com">
-      <img src="https://img.shields.io/badge/-111111?style=flat-square&logo=gmail&logoColor=EA4335" height="24" alt="Email" />
-      &nbsp;EMAIL
-    </a>
-  </h2>
 </div>
