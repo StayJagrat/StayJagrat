@@ -1,4 +1,4 @@
-```md
+
 <!-- =========================================================
      JAGRAT PATEL — GITHUB PROFILE
      Minimal Black + Gold
