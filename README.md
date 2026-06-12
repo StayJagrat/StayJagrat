@@ -117,25 +117,20 @@
     alt="Profile views"
   />
   <br><br>
-  <a href="https://stayjagrat.com">
-    <img
-      height="84"
-      src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"
-      alt="Portfolio"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/stayjagrat">
-    <img
-      height="84"
-      src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="mailto:jagratpatel20062j@gmail.com">
-    <img
-      height="84"
-      src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"
-      alt="Email"
-    />
-  </a>
+  <h2>
+    <a href="https://stayjagrat.com">
+      <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" height="24" alt="Portfolio" />
+      &nbsp;PORTFOLIO
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/stayjagrat">
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" alt="LinkedIn" />
+      &nbsp;LINKEDIN
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:jagratpatel20062j@gmail.com">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" height="24" alt="Email" />
+      &nbsp;EMAIL
+    </a>
+  </h2>
 </div>
