@@ -73,68 +73,24 @@
 
 ## About
 
-```ts
-const jagrat = {
-  education: "B.S. Information Systems @ UMBC",
-  disciplines: [
-    "Full-Stack Development",
-    "IT Security",
-    "Applied AI"
-  ],
-  philosophy: "Build products that are useful, secure and intuitive.",
-  currentFocus: "Turning practical problems into deployed software",
-  status: "Open to internships and technical collaboration"
-};
-```
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=3000&pause=1200&color=FFD43B&vCenter=true&repeat=true&width=700&height=40&lines=Elegant+Systems.+Secure+Engineering.;Full-Stack+Developer+%7C+IT+Security+%7C+Applied+AI;Building+products+that+feel+premium+and+perform+powerfully." alt="About animation" />
+</p>
 
-I build at the intersection of **full-stack development, IT security, applied AI, and human-centered product design**.
-
-My goal is not simply to create working software. I focus on building products that are understandable, secure, scalable, and useful in real-world environments.
-
-<details open>
-<summary><b>Professional Snapshot</b></summary>
-
-<br>
-
-* **IT & Security Intern — Youphoria LLC**
-
-  * Strengthening security through MFA, conditional-access controls, anti-phishing protections, account-lockout policies, and security monitoring.
-
-* **Sponsorship Team — HackUMBC**
-
-  * Supporting corporate partnerships, sponsorship outreach, funding, and resources for the hackathon community.
-
-* **2× HackUMBC 2025 Winner**
-
-  * Best Health/Environmental Hack
-  * MLH Best `.Tech` Domain
-
-</details>
+> **Jagrat Patel**  
+> **B.S. Information Systems @ UMBC**  
+> Full-Stack Developer • IT Security • Applied AI  
+> I build secure, elegant, and high-impact digital products with a focus on clarity, scalability, and real-world value.
 
 <details>
-<summary><b>How I Approach Product Development</b></summary>
+<summary><b>Selected Highlights</b></summary>
 
 <br>
 
-1. Understand the actual user problem.
-2. Design a clear and responsive user experience.
-3. Build modular and maintainable systems.
-4. Integrate security from the beginning.
-5. Measure whether the final product creates practical value.
-
-</details>
-
-<details>
-<summary><b>Areas I Am Interested In</b></summary>
-
-<br>
-
-* Secure web application development
-* AI-assisted products and automation
-* Identity and access management
-* Product-oriented frontend engineering
-* Cloud-connected applications
-* Hackathons and collaborative engineering
+- **IT & Security Intern — Youphoria LLC**
+- **Sponsorship Team — HackUMBC**
+- **2× HackUMBC 2025 Winner**
+- **Builder of products that blend design, intelligence, and security**
 
 </details>
 
