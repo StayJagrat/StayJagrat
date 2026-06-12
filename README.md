@@ -2,24 +2,10 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/assets/animated-hero.svg"
+    src="./hero-banner-large.svg"
     width="100%"
     alt="Jagrat Patel animated profile banner"
   />
-</div>
-
----
-
-## About / Identity
-
-<div align="left">
-  <h3><code>name</code>: Jagrat Patel</h3>
-  <h3><code>education</code>: B.S. Information Systems @ UMBC</h3>
-  <h3><code>minor</code>: Finance</h3>
-  <h3><code>currentPosition</code>: IT &amp; Security Intern @ Youphoria LLC</h3>
-  <h3><code>organization</code>: Sponsorship Committee Member @ HackUMBC</h3>
-  <h3><code>achievements</code>: 2x HackUMBC 2025 Winner</h3>
-  <h3><code>awards</code>: Best Health/Environmental Hack, MLH Best .Tech Domain</h3>
 </div>
 
 ---
