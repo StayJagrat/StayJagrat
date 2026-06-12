@@ -1,7 +1,7 @@
-<!-- =========================================================
-     JAGRAT PATEL — GITHUB PROFILE README
-     Theme: Premium Black + Gold
-========================================================= -->
+<!--
+  StayJagrat GitHub Profile
+  Minimal black + gold system inspired by stayjagrat.com
+-->
 
 <div align="center">
 
@@ -13,59 +13,25 @@
 
 <br>
 
-<a href="https://git.io/typing-svg">
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=FFD43B&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%3E+Initializing+Jagrat.exe...;%3E+Full-Stack+Developer;%3E+IT+Security+Professional;%3E+Applied+AI+Builder;%3E+2x+HackUMBC+2025+Winner;%3E+Building+the+next+useful+idea..."
-  alt="Animated typing introduction"
-/>
-</a>
-
-<br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=StayJagrat&label=PROFILE+VIEWS&color=ffd43b&style=for-the-badge"
-  alt="Profile views"
-/>
-
-<img
-  src="https://img.shields.io/badge/STATUS-BUILDING-FFD43B?style=for-the-badge&labelColor=0B0B0B"
-  alt="Currently building"
-/>
-
-<img
-  src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-FFD43B?style=for-the-badge&labelColor=0B0B0B"
-  alt="Open to internships"
-/>
-
-<br><br>
-
 <a href="https://stayjagrat.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=FFD43B" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=FFD43B" alt="Portfolio">
 </a>
-
 <a href="https://www.linkedin.com/in/stayjagrat">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFD43B" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFD43B" alt="LinkedIn">
 </a>
-
 <a href="mailto:jagratpatel20062j@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFD43B" alt="Email">
-</a>
-
-<a href="https://github.com/StayJagrat">
-<img src="https://img.shields.io/badge/GITHUB-0B0B0B?style=for-the-badge&logo=github&logoColor=FFD43B" alt="GitHub">
+<img src="https://img.shields.io/badge/Email-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFD43B" alt="Email">
 </a>
 
 <br><br>
 
 <a href="#about">About</a>
-&nbsp;•&nbsp;
-<a href="#featured-projects">Projects</a>
-&nbsp;•&nbsp;
-<a href="#technology-stack">Technology</a>
-&nbsp;•&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#selected-work">Work</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#technical-foundation">Skills</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="#github-activity">Activity</a>
-&nbsp;•&nbsp;
-<a href="#connect">Connect</a>
 
 </div>
 
@@ -73,97 +39,65 @@
 
 ## About
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=3000&pause=1200&color=FFD43B&vCenter=true&repeat=true&width=700&height=40&lines=Elegant+Systems.+Secure+Engineering.;Full-Stack+Developer+%7C+IT+Security+%7C+Applied+AI;Building+products+that+feel+premium+and+perform+powerfully." alt="About animation" />
-</p>
+I design and build polished digital products that balance **clarity, performance, and security**. My work spans full-stack applications, applied AI, and secure systems, with a strong focus on turning practical ideas into reliable user experiences.
 
-> **Jagrat Patel**  
-> **B.S. Information Systems @ UMBC**  
-> Full-Stack Developer • IT Security • Applied AI  
-> I build secure, elegant, and high-impact digital products with a focus on clarity, scalability, and real-world value.
-
-<details>
-<summary><b>Selected Highlights</b></summary>
-
-<br>
-
-- **IT & Security Intern — Youphoria LLC**
-- **Sponsorship Team — HackUMBC**
-- **2× HackUMBC 2025 Winner**
-- **Builder of products that blend design, intelligence, and security**
-
-</details>
+<table>
+<tr>
+<td><b>Education</b></td>
+<td>B.S. Information Systems, UMBC</td>
+</tr>
+<tr>
+<td><b>Current</b></td>
+<td>IT & Security Intern at Youphoria LLC</td>
+</tr>
+<tr>
+<td><b>Community</b></td>
+<td>Sponsorship Team at HackUMBC</td>
+</tr>
+<tr>
+<td><b>Recognition</b></td>
+<td>2× HackUMBC 2025 Winner</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+## Selected Work
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🌱 GreenCrew</h3>
+<h3 align="center">GreenCrew</h3>
+<p align="center"><b>AI-powered sustainability platform</b></p>
+
+A gamified PWA that identifies everyday items and helps users choose whether to reuse, sell, donate, or recycle them.
 
 <p align="center">
-<b>Award-Winning AI Sustainability PWA</b>
-</p>
-
-<p>
-GreenCrew uses AI-assisted object recognition to help users understand how everyday items can be reused, sold, donated, or recycled.
-</p>
-
-<p>
-<b>Core Experience</b>
-</p>
-
-<p>
-• Item recognition and classification<br>
-• Resale-value and environmental insights<br>
-• Recycling and donation guidance<br>
-• XP, achievements, and leaderboard mechanics
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,firebase,tensorflow&theme=dark" height="42" alt="GreenCrew technologies">
+<img src="https://skillicons.dev/icons?i=react,firebase,tensorflow&theme=dark" height="38" alt="GreenCrew stack">
 </p>
 
 <p align="center">
 <a href="https://greencrew.tech">
-<img src="https://img.shields.io/badge/OPEN%20LIVE%20APP-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Open GreenCrew">
+<img src="https://img.shields.io/badge/View_Project-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="View GreenCrew">
 </a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🛡️ Evidex</h3>
+<h3 align="center">Evidex</h3>
+<p align="center"><b>AI-assisted digital forensics</b></p>
+
+A security-focused platform for organizing evidence, supporting analysis, and maintaining traceable digital records.
 
 <p align="center">
-<b>Blockchain & AI Forensics Platform</b>
-</p>
-
-<p>
-Evidex is an AI-assisted digital-forensics platform focused on evidence organization, integrity, analysis, and traceable records.
-</p>
-
-<p>
-<b>Core Experience</b>
-</p>
-
-<p>
-• AI-assisted evidence analysis<br>
-• Organized investigation workflows<br>
-• Traceable digital records<br>
-• Security-focused system architecture
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark" height="42" alt="Evidex technologies">
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark" height="38" alt="Evidex stack">
 </p>
 
 <p align="center">
 <a href="https://www.evidex.tech">
-<img src="https://img.shields.io/badge/EXPLORE%20PLATFORM-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Open Evidex">
+<img src="https://img.shields.io/badge/View_Project-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="View Evidex">
 </a>
 </p>
 
@@ -171,86 +105,55 @@ Evidex is an AI-assisted digital-forensics platform focused on evidence organiza
 </tr>
 </table>
 
+<div align="center">
+
+**GreenCrew received Best Health/Environmental Hack and MLH Best `.Tech` Domain at HackUMBC 2025.**
+
+</div>
+
 ---
 
-## Technology Stack
+## Technical Foundation
 
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="25%" valign="top">
 
-<h3>Frontend & Product Design</h3>
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,figma&perline=7" alt="Frontend technologies">
-
-<br><br>
-
-Responsive interfaces, component architecture, interaction design, accessibility, and product-oriented frontend development.
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css&perline=3" alt="Frontend skills">
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="25%" valign="top">
 
-<h3>Backend & Cloud</h3>
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,vercel&perline=5" alt="Backend technologies">
-
-<br><br>
-
-APIs, authentication, database integration, server-side logic, cloud-connected applications, and deployment.
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=2" alt="Backend skills">
 
 </td>
-</tr>
+<td width="25%" valign="top">
 
-<tr>
-<td width="50%" align="center" valign="top">
+### AI & Core
 
-<h3>AI & Core Development</h3>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow&perline=3" alt="AI and core technologies">
-
-<br><br>
-
-Applied machine learning, object recognition, automation, algorithmic development, and AI product integration.
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow&perline=3" alt="AI and programming skills">
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="25%" valign="top">
 
-<h3>Systems & Development Tools</h3>
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=4" alt="Development tools">
-
-<br><br>
-
-Version control, Linux environments, collaborative workflows, debugging, security configuration, and deployment management.
+<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,figma,vscode&perline=3" alt="Tools">
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MFA-FFD43B?style=flat-square&logoColor=000000" alt="MFA">
-
-<img src="https://img.shields.io/badge/CONDITIONAL%20ACCESS-FFD43B?style=flat-square&logoColor=000000" alt="Conditional access">
-
-<img src="https://img.shields.io/badge/ANTI--PHISHING-FFD43B?style=flat-square&logoColor=000000" alt="Anti-phishing">
-
-<img src="https://img.shields.io/badge/SECURE%20AUTHENTICATION-FFD43B?style=flat-square&logoColor=000000" alt="Secure authentication">
-
-</div>
-
 <details>
-<summary><b>Architecture Principles</b></summary>
+<summary><b>Security focus</b></summary>
 
 <br>
 
-* Security should be part of the architecture, not a final patch.
-* Interfaces should clearly communicate system state and user actions.
-* Components should remain reusable and maintainable.
-* AI should solve a defined problem rather than exist as decoration.
-* Every deployed feature should provide measurable user value.
+MFA · Conditional access · Anti-phishing controls · Account protection · Security monitoring
 
 </details>
 
@@ -260,63 +163,67 @@ Version control, Linux environments, collaborative workflows, debugging, securit
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=StayJagrat&show_icons=true&include_all_commits=true&bg_color=0b0b0b&title_color=ffd43b&text_color=ffffff&icon_color=ffd43b&border_color=ffd43b" alt="Jagrat's GitHub statistics">
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=StayJagrat&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&bg_color=0B0B0B&text_color=FFFFFF&icon_color=FFD43B&border_color=2A2A2A"
+  alt="GitHub statistics"
+/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=StayJagrat&background=0B0B0B&border=FFD43B&stroke=FFD43B&ring=FFD43B&fire=FFD43B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD43B&sideLabels=FFFFFF&dates=BBBBBB" alt="Jagrat's GitHub streak">
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com?user=StayJagrat&hide_total_contributions=true&background=0B0B0B&border=2A2A2A&stroke=FFD43B&ring=FFD43B&fire=FFD43B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD43B&sideLabels=BBBBBB&dates=777777"
+  alt="GitHub streak"
+/>
 
 <br><br>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=StayJagrat&layout=compact&langs_count=8&bg_color=0b0b0b&title_color=ffd43b&text_color=ffffff&border_color=ffd43b" alt="Most used languages">
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=StayJagrat&bg_color=0b0b0b&color=ffffff&line=ffd43b&point=ffffff&area=true&area_color=ffd43b&border_color=ffd43b&custom_title=Contribution%20Activity" alt="GitHub contribution activity">
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=StayJagrat&bg_color=0B0B0B&color=BBBBBB&line=FFD43B&point=FFFFFF&area=true&area_color=FFD43B&hide_border=true&custom_title=Contribution%20Activity"
+  alt="Contribution activity graph"
+/>
 
 </div>
 
-### Contribution Animation
+<details>
+<summary><b>Contribution animation</b></summary>
+
+<br>
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake.svg">
-<img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake.svg">
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake-dark.svg"
+>
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake.svg"
+>
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake.svg"
+  alt="Contribution animation"
+>
 </picture>
 
 </div>
 
----
+</details>
 
-## Connect
+---
 
 <div align="center">
 
-<h3>Have an opportunity, project, or technical challenge?</h3>
-
-<p>
-I am interested in internships, hackathons, security projects, AI product development, and collaborative software builds.
-</p>
+### Build with purpose. Design with clarity. Secure by default.
 
 <a href="https://stayjagrat.com">
-<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio">
-</a>
-
-<a href="https://www.linkedin.com/in/stayjagrat">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-FFD43B?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn">
-</a>
-
-<a href="mailto:jagratpatel20062j@gmail.com">
-<img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-FFD43B?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email">
+<img src="https://img.shields.io/badge/Explore_My_Work-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Explore my work">
 </a>
 
 <br><br>
 
-<sub>
-Designed and maintained by
-<a href="https://github.com/StayJagrat"><b>Jagrat Patel</b></a>
-</sub>
+<sub>Jagrat Patel · Maryland, USA</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0b0b0b&section=footer" width="100%" alt="Footer">
