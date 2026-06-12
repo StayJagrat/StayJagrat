@@ -225,9 +225,7 @@ alt="Explore Jagrat Patel portfolio"
 
 </div>
 ```
-<br><br>
-
 <img
-src="https://komarev.com/ghpvc/?username=StayJagrat&label=PROFILE%20VIEWS&color=FFD43B&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=StayJagrat&label=PROFILE%20VIEWS&labelColor=FFD43B&color=0B0B0B&style=for-the-badge"
 alt="StayJagrat profile views"
 />
