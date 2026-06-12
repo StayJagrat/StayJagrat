@@ -7,9 +7,6 @@
     alt="Jagrat Patel animated profile banner"
   />
   <br><br>
-  <h1>Hi, I&apos;m Jagrat Patel</h1>
-  <p><strong>Information Systems student at UMBC building secure, AI-powered web products.</strong></p>
-  <p>Maryland, USA &middot; IT &amp; Security &middot; Frontend Systems &middot; Applied AI</p>
   <img
     src="https://komarev.com/ghpvc/?username=StayJagrat&label=Profile%20views&color=2F81F7&style=flat"
     alt="Profile views"
@@ -83,11 +80,11 @@
     <td>
       <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/FFD43B" height="24" alt="Git" /></a>&nbsp;
       <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFD43B" height="24" alt="GitHub" /></a>&nbsp;
-      <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode/FFD43B" height="24" alt="Visual Studio Code" /></a>&nbsp;
+      <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="24" alt="Visual Studio Code" /></a>&nbsp;
       <a href="https://www.figma.com/"><img src="https://cdn.simpleicons.org/figma/FFD43B" height="24" alt="Figma" /></a>&nbsp;
       <a href="https://admin.google.com/"><img src="https://cdn.simpleicons.org/google/FFD43B" height="24" alt="Google Admin Console" /></a>&nbsp;
       <a href="https://www.linux.org/pages/download/"><img src="https://cdn.simpleicons.org/linux/FFD43B" height="24" alt="Linux" /></a>&nbsp;
-      <a href="https://workspace.google.com/"><img src="https://cdn.simpleicons.org/googleworkspace/FFD43B" height="24" alt="Google Workspace" /></a>
+      <a href="https://workspace.google.com/"><img src="https://img.shields.io/badge/Workspace-FFD43B?style=flat-square&logo=google&logoColor=000000" height="24" alt="Google Workspace" /></a>
     </td>
   </tr>
 </table>
@@ -97,11 +94,13 @@
 ## Projects
 
 <div align="center">
-  <a href="https://greencrew.tech"><strong>GreenCrew</strong></a>
+  <h3>
+    <a href="https://greencrew.tech"><strong>GreenCrew</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.evidex.tech"><strong>Evidex</strong></a>
+    <a href="https://www.evidex.tech"><strong>Evidex</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://tripnosis.us"><strong>Voyage</strong></a>
+    <a href="https://tripnosis.us"><strong>Voyage</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://cliniscribe.vercel.app"><strong>CliniScribe</strong></a>
+    <a href="https://cliniscribe.vercel.app"><strong>CliniScribe</strong></a>
+  </h3>
 </div>
