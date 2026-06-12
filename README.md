@@ -49,20 +49,6 @@ alt="Jagrat Patel animated profile banner"
 </div>
 
 ---
-@@ -42,9 +35,9 @@
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/assets/about-card.svg"
-  width="100%"
-  alt="About Jagrat Patel"
-src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/assets/about-card.svg"
-width="100%"
-alt="About Jagrat Patel"
-/>
-
-</div>
-@@ -55,26 +48,26 @@
 
 <div align="center">
 
