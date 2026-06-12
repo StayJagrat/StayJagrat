@@ -1,5 +1,5 @@
 <!--
-  StayJagrat GitHub Profile
+  StayJagrat — GitHub Profile
   Minimal black + gold system inspired by stayjagrat.com
 -->
 
@@ -27,9 +27,9 @@
 
 <a href="#about">About</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#selected-work">Work</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="#technical-foundation">Skills</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#selected-work">Projects</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="#github-activity">Activity</a>
 
@@ -39,26 +39,46 @@
 
 ## About
 
-I design and build polished digital products that balance **clarity, performance, and security**. My work spans full-stack applications, applied AI, and secure systems, with a strong focus on turning practical ideas into reliable user experiences.
+<div align="center">
 
-<table>
-<tr>
-<td><b>Education</b></td>
-<td>B.S. Information Systems, UMBC</td>
-</tr>
-<tr>
-<td><b>Current</b></td>
-<td>IT & Security Intern at Youphoria LLC</td>
-</tr>
-<tr>
-<td><b>Community</b></td>
-<td>Sponsorship Team at HackUMBC</td>
-</tr>
-<tr>
-<td><b>Recognition</b></td>
-<td>2× HackUMBC 2025 Winner</td>
-</tr>
-</table>
+<img
+  src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/assets/about-card.svg"
+  width="100%"
+  alt="About Jagrat Patel"
+/>
+
+</div>
+
+---
+
+## Technical Foundation
+
+<div align="center">
+
+### Core Stack
+
+<img
+  src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,firebase,python,cpp,tensorflow,tailwind,git&perline=12"
+  alt="Core technical stack"
+/>
+
+<br><br>
+
+### Product & Platform
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,figma,github,linux,vercel,vscode&perline=7"
+  alt="Product and platform tools"
+/>
+
+<br><br>
+
+<sub>
+<strong>Security:</strong>
+MFA · Conditional Access · Anti-Phishing · Account Protection · Security Monitoring
+</sub>
+
+</div>
 
 ---
 
@@ -69,17 +89,19 @@ I design and build polished digital products that balance **clarity, performance
 <td width="50%" valign="top">
 
 <h3 align="center">GreenCrew</h3>
-<p align="center"><b>AI-powered sustainability platform</b></p>
+<p align="center"><b>AI Sustainability Platform</b></p>
 
-A gamified PWA that identifies everyday items and helps users choose whether to reuse, sell, donate, or recycle them.
+<p>
+A gamified web application that recognizes everyday items and helps users decide whether to reuse, sell, donate, or recycle them.
+</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,firebase,tensorflow&theme=dark" height="38" alt="GreenCrew stack">
+<img src="https://skillicons.dev/icons?i=react,firebase,tensorflow&theme=dark" height="38" alt="GreenCrew technologies">
 </p>
 
 <p align="center">
 <a href="https://greencrew.tech">
-<img src="https://img.shields.io/badge/View_Project-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="View GreenCrew">
+<img src="https://img.shields.io/badge/Explore_GreenCrew-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Explore GreenCrew">
 </a>
 </p>
 
@@ -87,17 +109,19 @@ A gamified PWA that identifies everyday items and helps users choose whether to 
 <td width="50%" valign="top">
 
 <h3 align="center">Evidex</h3>
-<p align="center"><b>AI-assisted digital forensics</b></p>
+<p align="center"><b>AI-Assisted Digital Forensics</b></p>
 
-A security-focused platform for organizing evidence, supporting analysis, and maintaining traceable digital records.
+<p>
+A security-focused platform for organizing evidence, supporting analysis, and maintaining clear, traceable digital records.
+</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark" height="38" alt="Evidex stack">
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark" height="38" alt="Evidex technologies">
 </p>
 
 <p align="center">
 <a href="https://www.evidex.tech">
-<img src="https://img.shields.io/badge/View_Project-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="View Evidex">
+<img src="https://img.shields.io/badge/Explore_Evidex-FFD43B?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Explore Evidex">
 </a>
 </p>
 
@@ -107,55 +131,39 @@ A security-focused platform for organizing evidence, supporting analysis, and ma
 
 <div align="center">
 
-**GreenCrew received Best Health/Environmental Hack and MLH Best `.Tech` Domain at HackUMBC 2025.**
+<sub>
+GreenCrew earned <strong>Best Health/Environmental Hack</strong> and
+<strong>MLH Best .Tech Domain</strong> at HackUMBC 2025.
+</sub>
 
 </div>
 
 ---
 
-## Technical Foundation
+## Experience & Community
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### Frontend
+### IT & Security Intern
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css&perline=3" alt="Frontend skills">
+**Youphoria LLC**
 
-</td>
-<td width="25%" valign="top">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=2" alt="Backend skills">
+Supporting secure access, account protection, anti-phishing controls, and security monitoring.
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### AI & Core
+### Sponsorship Team
 
-<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow&perline=3" alt="AI and programming skills">
+**HackUMBC**
 
-</td>
-<td width="25%" valign="top">
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,figma,vscode&perline=3" alt="Tools">
+Supporting outreach, partnerships, and resources for Maryland's student hackathon community.
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b>Security focus</b></summary>
-
-<br>
-
-MFA · Conditional access · Anti-phishing controls · Account protection · Security monitoring
-
-</details>
 
 ---
 
@@ -186,7 +194,7 @@ MFA · Conditional access · Anti-phishing controls · Account protection · Sec
 </div>
 
 <details>
-<summary><b>Contribution animation</b></summary>
+<summary><b>View contribution animation</b></summary>
 
 <br>
 
