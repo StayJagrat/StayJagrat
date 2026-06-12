@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/stayjagrat">
     <img
       height="54"
-      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+      src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
       alt="LinkedIn"
     />
   </a>
