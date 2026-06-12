@@ -8,28 +8,28 @@
   />
   <br><br>
   <img
-    src="https://komarev.com/ghpvc/?username=StayJagrat&label=Profile%20views&color=2F81F7&style=flat"
+    src="https://komarev.com/ghpvc/?username=StayJagrat&label=PROFILE%20VIEWS&style=for-the-badge&color=B8860B"
     alt="Profile views"
   />
   <br><br>
   <a href="https://stayjagrat.com">
     <img
-      height="42"
-      src="https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=FFD43B"
+      height="50"
+      src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"
       alt="Portfolio"
     />
   </a>
   <a href="https://www.linkedin.com/in/stayjagrat">
     <img
-      height="42"
-      src="https://img.shields.io/badge/LINKEDIN-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFD43B"
+      height="50"
+      src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
       alt="LinkedIn"
     />
   </a>
   <a href="mailto:jagratpatel20062j@gmail.com">
     <img
-      height="42"
-      src="https://img.shields.io/badge/EMAIL-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFD43B"
+      height="50"
+      src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"
       alt="Email"
     />
   </a>
@@ -39,68 +39,71 @@
 
 ## Core Stack
 
-<div align="center">
-  <sub>Click any icon to open the official site or a reference page.</sub>
-</div>
+<br>
 
-<table align="center">
+<table width="100%" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="right"><strong>Languages</strong></td>
+    <td width="28%" align="right"><strong>Languages</strong></td>
     <td>
-      <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/FFD43B" height="24" alt="Python" /></a>&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/FFD43B" height="24" alt="JavaScript" /></a>&nbsp;
-      <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.simpleicons.org/cplusplus/FFD43B" height="24" alt="C++" /></a>&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5/FFD43B" height="24" alt="HTML5" /></a>&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css/FFD43B" height="24" alt="CSS3" /></a>
+      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" /></a>&nbsp;&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" /></a>&nbsp;&nbsp;
+      <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" alt="C++" /></a>&nbsp;&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML5" /></a>&nbsp;&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" /></a>
     </td>
   </tr>
   <tr>
     <td align="right"><strong>Frontend</strong></td>
     <td>
-      <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/FFD43B" height="24" alt="React" /></a>&nbsp;
-      <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/FFD43B" height="24" alt="Next.js" /></a>&nbsp;
-      <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/FFD43B" height="24" alt="Tailwind CSS" /></a>&nbsp;
-      <a href="https://www.framer.com/motion/"><img src="https://cdn.simpleicons.org/framer/FFD43B" height="24" alt="Framer Motion" /></a>&nbsp;
-      <a href="https://gsap.com/"><img src="https://cdn.simpleicons.org/greensock/FFD43B" height="24" alt="GSAP" /></a>&nbsp;
-      <a href="https://www.tensorflow.org/js"><img src="https://cdn.simpleicons.org/tensorflow/FFD43B" height="24" alt="TensorFlow.js" /></a>
+      <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" /></a>&nbsp;&nbsp;
+      <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="34" alt="Next.js" /></a>&nbsp;&nbsp;
+      <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
+      <a href="https://www.framer.com/motion/"><img src="https://cdn.simpleicons.org/framer/FFFFFF" height="34" alt="Framer Motion" /></a>&nbsp;&nbsp;
+      <a href="https://gsap.com/"><img src="https://cdn.simpleicons.org/greensock/88CE02" height="34" alt="GSAP" /></a>&nbsp;&nbsp;
+      <a href="https://www.tensorflow.org/js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow.js" /></a>
     </td>
   </tr>
   <tr>
     <td align="right"><strong>Backend &amp; Infra</strong></td>
     <td>
-      <a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/FFD43B" height="24" alt="Node.js" /></a>&nbsp;
-      <a href="https://expressjs.com/"><img src="https://cdn.simpleicons.org/express/FFD43B" height="24" alt="Express.js" /></a>&nbsp;
-      <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/FFD43B" height="24" alt="MongoDB" /></a>&nbsp;
-      <a href="https://firebase.google.com/"><img src="https://cdn.simpleicons.org/firebase/FFD43B" height="24" alt="Firebase" /></a>&nbsp;
-      <a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/FFD43B" height="24" alt="Vercel" /></a>
+      <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" /></a>&nbsp;&nbsp;
+      <a href="https://expressjs.com/"><img src="https://cdn.simpleicons.org/express/FFFFFF" height="34" alt="Express.js" /></a>&nbsp;&nbsp;
+      <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="MongoDB" /></a>&nbsp;&nbsp;
+      <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="34" alt="Firebase" /></a>&nbsp;&nbsp;
+      <a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="34" alt="Vercel" /></a>
     </td>
   </tr>
   <tr>
     <td align="right"><strong>Tools</strong></td>
     <td>
-      <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/FFD43B" height="24" alt="Git" /></a>&nbsp;
-      <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFD43B" height="24" alt="GitHub" /></a>&nbsp;
-      <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="24" alt="Visual Studio Code" /></a>&nbsp;
-      <a href="https://www.figma.com/"><img src="https://cdn.simpleicons.org/figma/FFD43B" height="24" alt="Figma" /></a>&nbsp;
-      <a href="https://admin.google.com/"><img src="https://cdn.simpleicons.org/google/FFD43B" height="24" alt="Google Admin Console" /></a>&nbsp;
-      <a href="https://www.linux.org/pages/download/"><img src="https://cdn.simpleicons.org/linux/FFD43B" height="24" alt="Linux" /></a>&nbsp;
-      <a href="https://workspace.google.com/"><img src="https://img.shields.io/badge/Workspace-FFD43B?style=flat-square&logo=google&logoColor=000000" height="24" alt="Google Workspace" /></a>
+      <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" /></a>&nbsp;&nbsp;
+      <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
+      <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="Visual Studio Code" /></a>&nbsp;&nbsp;
+      <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="Figma" /></a>&nbsp;&nbsp;
+      <a href="https://admin.google.com/"><img src="https://img.shields.io/badge/Admin-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28" alt="Google Admin Console" /></a>&nbsp;&nbsp;
+      <a href="https://www.linux.org/pages/download/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" /></a>&nbsp;&nbsp;
+      <a href="https://workspace.google.com/"><img src="https://img.shields.io/badge/Workspace-34A853?style=for-the-badge&logo=google&logoColor=white" height="28" alt="Google Workspace" /></a>
     </td>
   </tr>
 </table>
+
+<br>
 
 ---
 
 ## Projects
 
 <div align="center">
-  <h3>
-    <a href="https://greencrew.tech"><strong>GreenCrew</strong></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://www.evidex.tech"><strong>Evidex</strong></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://tripnosis.us"><strong>Voyage</strong></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="https://cliniscribe.vercel.app"><strong>CliniScribe</strong></a>
-  </h3>
+  <a href="https://greencrew.tech">
+    <img src="https://img.shields.io/badge/GreenCrew-111111?style=for-the-badge" height="36" alt="GreenCrew" />
+  </a>
+  <a href="https://www.evidex.tech">
+    <img src="https://img.shields.io/badge/Evidex-111111?style=for-the-badge" height="36" alt="Evidex" />
+  </a>
+  <a href="https://tripnosis.us">
+    <img src="https://img.shields.io/badge/Voyage-111111?style=for-the-badge" height="36" alt="Voyage" />
+  </a>
+  <a href="https://cliniscribe.vercel.app">
+    <img src="https://img.shields.io/badge/CliniScribe-111111?style=for-the-badge" height="36" alt="CliniScribe" />
+  </a>
 </div>
