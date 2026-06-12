@@ -169,43 +169,6 @@ src="https://streak-stats.demolab.com?user=StayJagrat&hide_total_contributions=t
 alt="Jagrat Patel GitHub streak"
 />
 
-<br><br>
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=StayJagrat&bg_color=0B0B0B&color=BBBBBB&line=FFD43B&point=FFFFFF&area=true&area_color=FFD43B&hide_border=true&custom_title=Contribution%20Activity"
-alt="Jagrat Patel contribution activity"
-/>
-
-</div>
-
-<details>
-<summary><b>View contribution animation</b></summary>
-
-<br>
-
-<div align="center">
-
-<picture>
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake-dark.svg"
->
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake.svg"
->
-<img
-width="100%"
-src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/output/github-contribution-grid-snake.svg"
-alt="Animated GitHub contribution snake"
->
-</picture>
-
-</div>
-
-</details>
-
 ---
 
 <div align="center">
