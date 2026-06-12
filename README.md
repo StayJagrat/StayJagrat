@@ -5,43 +5,67 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0b0b0b&text=Jagrat%20Patel&fontColor=ffd43b&fontSize=62&fontAlignY=38&desc=BUILD%20%E2%80%A2%20SECURE%20%E2%80%A2%20SHIP&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Jagrat Patel header">
+<img
+  src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/assets/animated-hero.svg"
+  width="100%"
+  alt="Jagrat Patel animated profile banner"
+/>
+
+<br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=900&color=FFD43B&center=true&vCenter=true&width=900&height=55&lines=Full-Stack+Developer+%7C+IT+Security+%7C+AI+Builder;2x+HackUMBC+2025+Winner;Building+secure%2C+useful%2C+human-centered+products" alt="Animated typing introduction">
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=FFD43B&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%3E+Initializing+Jagrat.exe...;%3E+Full-Stack+Developer;%3E+IT+Security+Professional;%3E+Applied+AI+Builder;%3E+2x+HackUMBC+2025+Winner;%3E+Building+the+next+useful+idea..."
+  alt="Animated typing introduction"
+/>
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=StayJagrat&label=PROFILE+VIEWS&color=ffd43b&style=for-the-badge" alt="Profile views">
+<img
+  src="https://komarev.com/ghpvc/?username=StayJagrat&label=PROFILE+VIEWS&color=ffd43b&style=for-the-badge"
+  alt="Profile views"
+/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-0b0b0b?style=for-the-badge&labelColor=ffd43b" alt="Open to internships">
+<img
+  src="https://img.shields.io/badge/STATUS-BUILDING-FFD43B?style=for-the-badge&labelColor=0B0B0B"
+  alt="Currently building"
+/>
+
+<img
+  src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-FFD43B?style=for-the-badge&labelColor=0B0B0B"
+  alt="Open to internships"
+/>
 
 <br><br>
 
 <a href="https://stayjagrat.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-0b0b0b?style=for-the-badge&logo=googlechrome&logoColor=ffd43b" alt="Portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=FFD43B" alt="Portfolio">
 </a>
 
 <a href="https://www.linkedin.com/in/stayjagrat">
-<img src="https://img.shields.io/badge/LINKEDIN-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=ffd43b" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FFD43B" alt="LinkedIn">
 </a>
 
 <a href="mailto:jagratpatel20062j@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0b0b0b?style=for-the-badge&logo=gmail&logoColor=ffd43b" alt="Email">
+<img src="https://img.shields.io/badge/EMAIL-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FFD43B" alt="Email">
 </a>
 
 <a href="https://github.com/StayJagrat">
-<img src="https://img.shields.io/badge/GITHUB-0b0b0b?style=for-the-badge&logo=github&logoColor=ffd43b" alt="GitHub">
+<img src="https://img.shields.io/badge/GITHUB-0B0B0B?style=for-the-badge&logo=github&logoColor=FFD43B" alt="GitHub">
 </a>
 
 <br><br>
 
 <a href="#about">About</a>
- •  <a href="#featured-projects">Projects</a>
- •  <a href="#technology-stack">Technology</a>
- •  <a href="#github-activity">Activity</a>
- •  <a href="#connect">Connect</a>
+&nbsp;•&nbsp;
+<a href="#featured-projects">Projects</a>
+&nbsp;•&nbsp;
+<a href="#technology-stack">Technology</a>
+&nbsp;•&nbsp;
+<a href="#github-activity">Activity</a>
+&nbsp;•&nbsp;
+<a href="#connect">Connect</a>
 
 </div>
 
