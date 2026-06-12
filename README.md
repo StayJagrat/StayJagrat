@@ -10,6 +10,20 @@
 
 ---
 
+## About / Identity
+
+<div align="left">
+  <h3><code>name</code>: Jagrat Patel</h3>
+  <h3><code>education</code>: B.S. Information Systems @ UMBC</h3>
+  <h3><code>minor</code>: Finance</h3>
+  <h3><code>currentPosition</code>: IT &amp; Security Intern @ Youphoria LLC</h3>
+  <h3><code>organization</code>: Sponsorship Committee Member @ HackUMBC</h3>
+  <h3><code>achievements</code>: 2x HackUMBC 2025 Winner</h3>
+  <h3><code>awards</code>: Best Health/Environmental Hack, MLH Best .Tech Domain</h3>
+</div>
+
+---
+
 ## Core Stack
 
 <br>
@@ -113,26 +127,27 @@
 <div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=StayJagrat&label=PROFILE%20VIEWS&style=for-the-badge&color=B8860B"
+    height="62"
     alt="Profile views"
   />
   <br><br>
   <a href="https://stayjagrat.com">
     <img
-      height="54"
+      height="62"
       src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"
       alt="Portfolio"
     />
   </a>
   <a href="https://www.linkedin.com/in/stayjagrat">
     <img
-      height="54"
+      height="62"
       src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
       alt="LinkedIn"
     />
   </a>
   <a href="mailto:jagratpatel20062j@gmail.com">
     <img
-      height="54"
+      height="62"
       src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"
       alt="Email"
     />
