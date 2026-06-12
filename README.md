@@ -30,20 +30,6 @@ alt="Jagrat Patel animated profile banner"
 
 ---
 
-## About
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/StayJagrat/StayJagrat/main/assets/about-card.svg"
-width="100%"
-alt="About Jagrat Patel"
-/>
-
-</div>
-
----
-
 ## Technical Foundation
 
 <div align="center">
