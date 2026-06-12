@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070707"/>
+      <stop offset="55%" stop-color="#0d0d0d"/>
+      <stop offset="100%" stop-color="#141414"/>
+    </linearGradient>
+
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8a6500"/>
+      <stop offset="35%" stop-color="#ffd43b"/>
+      <stop offset="50%" stop-color="#fff3b0"/>
+      <stop offset="65%" stop-color="#ffd43b"/>
+      <stop offset="100%" stop-color="#8a6500"/>
+    </linearGradient>
+
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffd43b" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="26" fill="url(#grid)"/>
+
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="24.5" fill="none"
+        stroke="#ffd43b" stroke-width="3" stroke-opacity="0.38">
+    <animate attributeName="stroke-opacity" values="0.22;0.75;0.22" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="1070" cy="70" r="110" fill="#ffd43b" opacity="0.035">
+    <animate attributeName="r" values="90;135;90" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="150" cy="245" r="95" fill="#ffd43b" opacity="0.025">
+    <animate attributeName="cx" values="130;220;130" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="70" y="62" fill="#ffd43b" font-family="Arial, Helvetica, sans-serif"
+        font-size="15" font-weight="700" letter-spacing="4">
+    ABOUT / 01
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="70" y="110" fill="#ffffff" font-family="Georgia, serif"
+        font-size="25" font-weight="700">
+    I build digital experiences
+  </text>
+
+  <text x="70" y="148" fill="#ffffff" font-family="Georgia, serif"
+        font-size="25" font-weight="700">
+    that feel intentional,
+  </text>
+
+  <text x="70" y="191" fill="url(#gold)" font-family="Georgia, serif"
+        font-size="28" font-weight="700" filter="url(#glow)">
+    perform reliably, and leave a lasting impression.
+  </text>
+
+  <text x="70" y="231" fill="#b9b9b9" font-family="Arial, Helvetica, sans-serif"
+        font-size="15">
+    Thoughtful design, practical engineering, and clear purpose in every build.
+  </text>
+
+  <line x1="790" y1="58" x2="790" y2="242" stroke="#ffd43b" stroke-opacity="0.22"/>
+
+  <text x="835" y="82" fill="#777777" font-family="Arial, Helvetica, sans-serif"
+        font-size="12" font-weight="700" letter-spacing="2">
+    EDUCATION
+  </text>
+  <text x="835" y="108" fill="#ffffff" font-family="Arial, Helvetica, sans-serif"
+        font-size="16.5" font-weight="700">
+    B.S. Information Systems · UMBC
+  </text>
+
+  <text x="835" y="152" fill="#777777" font-family="Arial, Helvetica, sans-serif"
+        font-size="12" font-weight="700" letter-spacing="2">
+    MINOR
+  </text>
+  <text x="835" y="178" fill="#ffffff" font-family="Arial, Helvetica, sans-serif"
+        font-size="16.5" font-weight="700">
+    Finance
+  </text>
+
+  <text x="835" y="222" fill="#777777" font-family="Arial, Helvetica, sans-serif"
+        font-size="12" font-weight="700" letter-spacing="2">
+    BASED IN
+  </text>
+  <text x="835" y="248" fill="#ffffff" font-family="Arial, Helvetica, sans-serif"
+        font-size="16.5" font-weight="700">
+    Maryland, USA
+  </text>
+
+  <rect x="70" y="260" width="220" height="2" rx="1" fill="#ffd43b">
+    <animate attributeName="width" values="70;220;70" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
