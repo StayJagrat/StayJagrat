@@ -153,37 +153,6 @@ GreenCrew received <b>Best Health/Environmental Hack</b> and
 
 ---
 
-## Experience
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>IT & Security Intern</h3>
-
-<b>Youphoria LLC</b>
-
-<p>
-Supporting access security, account protection, anti-phishing controls, and security monitoring.
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>Sponsorship Team</h3>
-
-<b>HackUMBC</b>
-
-<p>
-Supporting sponsor outreach, corporate partnerships, and resources for the hackathon community.
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 ## GitHub Activity
 
 <div align="center">
