@@ -21,8 +21,8 @@
   </a>
   <a href="https://www.linkedin.com/in/stayjagrat">
     <img
-      height="50"
-      src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+      height="54"
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
       alt="LinkedIn"
     />
   </a>
@@ -94,16 +94,13 @@
 ## Projects
 
 <div align="center">
-  <a href="https://greencrew.tech">
-    <img src="https://img.shields.io/badge/GreenCrew-111111?style=for-the-badge" height="36" alt="GreenCrew" />
-  </a>
-  <a href="https://www.evidex.tech">
-    <img src="https://img.shields.io/badge/Evidex-111111?style=for-the-badge" height="36" alt="Evidex" />
-  </a>
-  <a href="https://tripnosis.us">
-    <img src="https://img.shields.io/badge/Voyage-111111?style=for-the-badge" height="36" alt="Voyage" />
-  </a>
-  <a href="https://cliniscribe.vercel.app">
-    <img src="https://img.shields.io/badge/CliniScribe-111111?style=for-the-badge" height="36" alt="CliniScribe" />
-  </a>
+  <h2>
+    <a href="https://greencrew.tech">GREENCREW</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.evidex.tech">EVIDEX</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://tripnosis.us">VOYAGE</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://cliniscribe.vercel.app">CLINISCRIBE</a>
+  </h2>
 </div>
