@@ -28,7 +28,7 @@
 
     <clipPath id="taglineClip">
       <rect x="300" y="168" width="0" height="30">
-        <animate attributeName="width" values="0;600;600;0" keyTimes="0;0.18;0.88;1" dur="9s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;600;600;0" keyTimes="0;0.15;0.85;1" dur="10s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
@@ -121,8 +121,8 @@
   </g>
 
   <rect y="170" width="10" height="25" fill="#FFD43B">
-    <animate attributeName="x" values="300;900;900;300" keyTimes="0;0.18;0.88;1" dur="9s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.88;0.99;1" dur="9s" repeatCount="indefinite" />
+    <animate attributeName="x" values="300;900;900;300" keyTimes="0;0.15;0.85;1" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.85;0.999;1" dur="10s" repeatCount="indefinite" />
   </rect>
 
   <rect x="430" y="225" width="340" height="2" rx="1" fill="#FFD43B" opacity="0.65">
