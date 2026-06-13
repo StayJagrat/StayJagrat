@@ -34,43 +34,43 @@
 
     <clipPath id="clip1">
       <rect x="90" y="285" width="0" height="28">
-        <animate attributeName="width" values="0;245;245;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;245;245;0" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
     <clipPath id="clip2">
       <rect x="90" y="320" width="0" height="28">
-        <animate attributeName="width" values="0;520;520;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;520;520;0" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
     <clipPath id="clip3">
       <rect x="90" y="355" width="0" height="28">
-        <animate attributeName="width" values="0;200;200;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;200;200;0" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
     <clipPath id="clip4">
       <rect x="90" y="390" width="0" height="28">
-        <animate attributeName="width" values="0;645;645;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;645;645;0" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
     <clipPath id="clip5">
       <rect x="90" y="425" width="0" height="28">
-        <animate attributeName="width" values="0;645;645;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;645;645;0" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
     <clipPath id="clip6">
       <rect x="90" y="460" width="0" height="28">
-        <animate attributeName="width" values="0;485;485;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;485;485;0" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
     <clipPath id="clip7">
       <rect x="90" y="495" width="0" height="28">
-        <animate attributeName="width" values="0;785;785;0" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;785;785;0" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
       </rect>
     </clipPath>
   </defs>
@@ -186,37 +186,37 @@
   </g>
 
   <rect y="289" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;330;330;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="x" values="90;330;330;90" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.94;0.999;1" dur="60s" repeatCount="indefinite" />
   </rect>
 
   <rect y="324" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;605;605;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="x" values="90;605;605;90" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.94;0.999;1" dur="60s" repeatCount="indefinite" />
   </rect>
 
   <rect y="359" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;284;284;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="x" values="90;284;284;90" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.94;0.999;1" dur="60s" repeatCount="indefinite" />
   </rect>
 
   <rect y="394" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;731;731;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="x" values="90;731;731;90" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.94;0.999;1" dur="60s" repeatCount="indefinite" />
   </rect>
 
   <rect y="429" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;731;731;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="x" values="90;731;731;90" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.94;0.999;1" dur="60s" repeatCount="indefinite" />
   </rect>
 
   <rect y="464" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;570;570;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="x" values="90;570;570;90" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.94;0.999;1" dur="60s" repeatCount="indefinite" />
   </rect>
 
   <rect y="499" width="9" height="18" fill="#FFD43B">
-    <animate attributeName="x" values="90;868;868;90" keyTimes="0;0.10;0.90;1" dur="60s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.90;0.999;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="x" values="90;868;868;90" keyTimes="0;0.06;0.94;1" dur="60s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;1;1;0" keyTimes="0;0.94;0.999;1" dur="60s" repeatCount="indefinite" />
   </rect>
 </svg>
