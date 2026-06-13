@@ -69,7 +69,7 @@
 <div align="center">
 
   <a href="https://greencrew.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&color=FFD43B&center=true&vCenter=true&repeat=false&width=300&duration=4100&lines=GREENCREW" alt="GREENCREW" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&color=FFD43B&center=true&vCenter=true&repeat=false&width=600&height=100&lines=GREENCREW" height="50" alt="GREENCREW" />
   </a>
   
   <p>
@@ -83,7 +83,7 @@
   <br>
 
   <a href="https://www.evidex.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&color=FFD43B&center=true&vCenter=true&repeat=false&width=300&duration=2700&lines=EVIDEX" alt="EVIDEX" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&color=FFD43B&center=true&vCenter=true&repeat=false&width=600&height=100&lines=EVIDEX" height="50" alt="EVIDEX" />
   </a>
 
   <p>
@@ -99,7 +99,7 @@
   <br>
 
   <a href="https://tripnosis.us">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&color=FFD43B&center=true&vCenter=true&repeat=false&width=300&duration=2700&lines=VOYAGE" alt="VOYAGE" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&color=FFD43B&center=true&vCenter=true&repeat=false&width=600&height=100&lines=VOYAGE" height="50" alt="VOYAGE" />
   </a>
 
   <p>
@@ -113,7 +113,7 @@
   <br>
 
   <a href="https://cliniscribe.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&color=FFD43B&center=true&vCenter=true&repeat=false&width=300&duration=5000&lines=CLINISCRIBE" alt="CLINISCRIBE" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&color=FFD43B&center=true&vCenter=true&repeat=false&width=600&height=100&lines=CLINISCRIBE" height="50" alt="CLINISCRIBE" />
   </a>
 
   <p>
