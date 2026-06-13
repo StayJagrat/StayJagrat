@@ -67,44 +67,57 @@
 ## Projects
 
 <div align="center">
-  <h2><a href="https://greencrew.tech">$\color{#FFD43B}{\textsf{GREENCREW}}$</a></h2>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=0B0B0B" alt="GSAP" />
-    <img src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  </p>
-  <br>
-  <h2><a href="https://www.evidex.tech">$\color{#FFD43B}{\textsf{EVIDEX}}$</a></h2>
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Node.js-215732?style=for-the-badge&logo=nodedotjs&logoColor=83CD29" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/MongoDB-0E2D1F?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Gemini_AI-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
-    <img src="https://img.shields.io/badge/Solana-111111?style=for-the-badge&logo=solana&logoColor=14F195" alt="Solana" />
-  </p>
-  <br>
-  <h2><a href="https://tripnosis.us">$\color{#FFD43B}{\textsf{VOYAGE}}$</a></h2>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
-    <img src="https://img.shields.io/badge/sentence--transformers-4B5563?style=for-the-badge" alt="sentence-transformers" />
-    <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge" alt="ChromaDB" />
-  </p>
-  <br>
-  <h2><a href="https://cliniscribe.vercel.app">$\color{#FFD43B}{\textsf{CLINISCRIBE}}$</a></h2>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-    <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
-    <img src="https://img.shields.io/badge/Google_Places_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Places API" />
-  </p>
+
+## [$\color{#FFD43B}{\textsf{GREENCREW}}$](https://greencrew.tech)
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=0B0B0B" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+<br>
+
+## [$\color{#FFD43B}{\textsf{EVIDEX}}$](https://www.evidex.tech)
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-215732?style=for-the-badge&logo=nodedotjs&logoColor=83CD29" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-0E2D1F?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Gemini_AI-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/Solana-111111?style=for-the-badge&logo=solana&logoColor=14F195" alt="Solana" />
+</p>
+
+<br>
+
+## [$\color{#FFD43B}{\textsf{VOYAGE}}$](https://tripnosis.us)
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/sentence--transformers-4B5563?style=for-the-badge" alt="sentence-transformers" />
+  <img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge" alt="ChromaDB" />
+</p>
+
+<br>
+
+## [$\color{#FFD43B}{\textsf{CLINISCRIBE}}$](https://cliniscribe.vercel.app)
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Google_Places_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Places API" />
+</p>
+
 </div>
+
 
 ---
 
